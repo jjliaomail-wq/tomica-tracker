@@ -71,36 +71,76 @@ async function scrapeHistory() {
   
   console.log(`Found ${cars.length} cars from history.`);
   
+  // Group by serial number to find discontinued models
+  const bySerial = {};
+  cars.forEach(car => {
+    if (!bySerial[car.serialNumber]) bySerial[car.serialNumber] = [];
+    bySerial[car.serialNumber].push(car);
+  });
+  
+  // Sort each serial group by date (newest first)
+  Object.values(bySerial).forEach(group => {
+    group.sort((a, b) => {
+      if (a.year !== b.year) return b.year - a.year;
+      return b.month - a.month;
+    });
+    
+    // The first one is 'current', the rest are 'discontinued'
+    group.forEach((car, index) => {
+      car.isDiscontinued = index > 0;
+    });
+  });
+  
   // Format the data
   const finalData = cars.map(car => {
-    let basePrice = car.currentPrice - 50;
+    let basePrice;
+    
+    if (car.isDiscontinued) {
+      // Discontinued cars: older = more expensive. 
+      // e.g., 2020 car is 6 years old (2026-2020) => price can be 300 ~ 1500
+      const ageYears = 2026 - car.year;
+      basePrice = 150 + (ageYears * 100) + Math.floor(Math.random() * 200);
+      car.name = `【絕版】${car.name}`;
+    } else {
+      // Current cars: normal price ~150
+      basePrice = Math.floor(Math.random() * 50) + 120;
+    }
+    
+    let currentTrend = basePrice - 50; // Start lower 3 years ago
     const priceHistory = [];
     
-    // Generate data for 3 years (2024 to 2026), 2 points per year to keep it clean
+    // Generate data for 3 years (2024 to 2026)
     const yearsToPlot = [2024, 2025, 2026];
     yearsToPlot.forEach(plotYear => {
       [1, 7].forEach(plotMonth => {
-        basePrice += Math.floor(Math.random() * 30) - 10;
+        if (car.isDiscontinued) {
+          // Discontinued models strictly go up in value
+          currentTrend += Math.floor(Math.random() * 40) + 10; 
+        } else {
+          // Current models fluctuate around MSRP
+          currentTrend = basePrice + Math.floor(Math.random() * 30) - 15;
+        }
         priceHistory.push({
           date: `${plotYear}-0${plotMonth}`,
-          price: basePrice
+          price: currentTrend
         });
       });
     });
     
     car.priceHistory = priceHistory;
-    car.currentPrice = basePrice;
+    // Set current price to the latest point in history
+    car.currentPrice = priceHistory[priceHistory.length - 1].price;
 
-    const searchKeyword = encodeURIComponent("Tomica " + car.serialNumber + " " + car.name);
+    const searchKeyword = encodeURIComponent("Tomica " + car.serialNumber + " " + car.name.replace('【絕版】', ''));
     
     car.marketplaces = [
-      { id: 1, name: "蝦皮購物", seller: "TomicaKing", price: basePrice - 10, url: `https://shopee.tw/search?keyword=${searchKeyword}`, rating: 4.9 },
-      { id: 2, name: "露天拍賣", seller: "CarCollector", price: basePrice, url: `https://www.ruten.com.tw/find/?q=${searchKeyword}`, rating: 4.8 },
-      { id: 3, name: "Yahoo拍賣", seller: "ToyMaster", price: basePrice + 10, url: `https://tw.buy.yahoo.com/search/product?p=${searchKeyword}`, rating: 4.5 },
+      { id: 1, name: "蝦皮購物", seller: "TomicaKing", price: car.currentPrice - 10, url: `https://shopee.tw/search?keyword=${searchKeyword}`, rating: 4.9 },
+      { id: 2, name: "露天拍賣", seller: "CarCollector", price: car.currentPrice, url: `https://www.ruten.com.tw/find/?q=${searchKeyword}`, rating: 4.8 },
+      { id: 3, name: "Yahoo拍賣", seller: "ToyMaster", price: car.currentPrice + 10, url: `https://tw.buy.yahoo.com/search/product?p=${searchKeyword}`, rating: 4.5 },
     ];
     
-    // Add views and initial mock comments
-    car.views = Math.floor(Math.random() * 9000) + 1000;
+    // Default 0 for real views tracking later
+    car.views = 0;
     car.comments = [];
     
     return car;

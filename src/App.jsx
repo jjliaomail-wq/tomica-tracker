@@ -6,7 +6,8 @@ import { ArrowDownUp, Info, Eye } from 'lucide-react';
 function App() {
   const [selectedCar, setSelectedCar] = useState(null);
   const [sortMode, setSortMode] = useState('year'); // 'year' or 'number'
-  const [userComments, setUserComments] = useState({}); // { carId: [comment1, comment2] }
+  const [userComments, setUserComments] = useState({});
+  const [realViews, setRealViews] = useState({});
 
   // Inject user comments into the base data
   const mergedData = useMemo(() => {
@@ -21,8 +22,8 @@ function App() {
     const sorted = [...mergedData].sort((a, b) => {
       if (a.year !== b.year) return b.year - a.year;
       if (a.month !== b.month) return b.month - a.month;
-      const numA = parseInt(a.serialNumber.replace(/\\D/g, '')) || 999;
-      const numB = parseInt(b.serialNumber.replace(/\\D/g, '')) || 999;
+      const numA = parseInt(a.serialNumber.replace(/\D/g, '')) || 999;
+      const numB = parseInt(b.serialNumber.replace(/\D/g, '')) || 999;
       return numA - numB;
     });
     return sorted.reduce((acc, car) => {
@@ -37,14 +38,14 @@ function App() {
   // Data for Number Sort
   const groupedDataByNumber = useMemo(() => {
     const allCars = [...mergedData].sort((a, b) => {
-      const numA = parseInt(a.serialNumber.replace(/\\D/g, '')) || 999;
-      const numB = parseInt(b.serialNumber.replace(/\\D/g, '')) || 999;
+      const numA = parseInt(a.serialNumber.replace(/\D/g, '')) || 999;
+      const numB = parseInt(b.serialNumber.replace(/\D/g, '')) || 999;
       return numA - numB;
     });
 
     const grouped = {};
     allCars.forEach(car => {
-      const num = parseInt(car.serialNumber.replace(/\\D/g, ''));
+      const num = parseInt(car.serialNumber.replace(/\D/g, ''));
       if (isNaN(num)) {
         if (!grouped['其他 (Special/Set)']) grouped['其他 (Special/Set)'] = [];
         grouped['其他 (Special/Set)'].push(car);
@@ -62,8 +63,8 @@ function App() {
   const numberRanges = Object.keys(groupedDataByNumber).sort((a, b) => {
     if (a.includes('其他')) return 1;
     if (b.includes('其他')) return -1;
-    const numA = parseInt(a.match(/\\d+/)[0]);
-    const numB = parseInt(b.match(/\\d+/)[0]);
+    const numA = parseInt(a.match(/\d+/)[0]);
+    const numB = parseInt(b.match(/\d+/)[0]);
     return numA - numB;
   });
 
@@ -79,11 +80,23 @@ function App() {
       [carId]: [...(prev[carId] || []), newComment]
     }));
     
-    // Also update selectedCar so the modal updates immediately
     setSelectedCar(prev => ({
       ...prev,
       comments: [...(prev.comments || []), newComment]
     }));
+  };
+
+  const handleCarClick = async (car) => {
+    setSelectedCar(car); // Open immediately for responsiveness
+    try {
+      const res = await fetch(`https://api.counterapi.dev/v1/tomica-tracker-v1/${car.id}/up`);
+      if (res.ok) {
+        const data = await res.json();
+        setRealViews(prev => ({ ...prev, [car.id]: data.count }));
+      }
+    } catch(e) {
+      console.log('Failed to fetch real views');
+    }
   };
 
   return (
@@ -123,7 +136,7 @@ function App() {
               <h2 className="year-title">{year} 年度發行</h2>
               <div className="car-grid">
                 {groupedDataByYear[year].map(car => (
-                  <CarCard key={car.id} car={car} onClick={() => setSelectedCar(car)} />
+                  <CarCard key={car.id} car={car} views={realViews[car.id]} onClick={() => handleCarClick(car)} />
                 ))}
               </div>
             </section>
@@ -134,7 +147,7 @@ function App() {
               <h2 className="year-title">{range}</h2>
               <div className="car-grid">
                 {groupedDataByNumber[range].map(car => (
-                  <CarCard key={car.id} car={car} onClick={() => setSelectedCar(car)} />
+                  <CarCard key={car.id} car={car} views={realViews[car.id]} onClick={() => handleCarClick(car)} />
                 ))}
               </div>
             </section>
@@ -144,7 +157,7 @@ function App() {
 
       {selectedCar && (
         <CarDetails 
-          car={selectedCar} 
+          car={{...selectedCar, realViews: realViews[selectedCar.id]}} 
           onClose={() => setSelectedCar(null)} 
           onAddComment={handleAddComment}
         />
@@ -154,7 +167,7 @@ function App() {
 }
 
 // Sub-component for the card
-function CarCard({ car, onClick }) {
+function CarCard({ car, views, onClick }) {
   return (
     <div className="car-card" onClick={onClick}>
       <div className="car-badge">{car.serialNumber}</div>
@@ -165,9 +178,15 @@ function CarCard({ car, onClick }) {
         <h3>{car.name}</h3>
         <div style={{ color: '#a0a0b5', fontSize: '0.8rem', marginBottom: '0.5rem', display: 'flex', justifyContent: 'space-between' }}>
           <span>發行於 {car.year} 年 {car.month} 月</span>
-          <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#ffb300' }}>
-            <Eye size={14} /> {car.views?.toLocaleString()}
-          </span>
+          {views ? (
+            <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#ffb300' }}>
+              <Eye size={14} /> {views.toLocaleString()} 人看過
+            </span>
+          ) : (
+            <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#3399ff' }}>
+              <Eye size={14} /> 點擊查看真實人氣
+            </span>
+          )}
         </div>
         <div className="car-price">
           NT$ {car.currentPrice} <span>/ 最新均價</span>

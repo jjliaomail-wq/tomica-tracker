@@ -1,6 +1,6 @@
 import React, { useMemo, useState } from 'react';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
-import { X, TrendingUp, Store, Star, MessageSquare, Send } from 'lucide-react';
+import { X, TrendingUp, Store, Star, MessageSquare, Send, Eye } from 'lucide-react';
 
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
@@ -41,8 +41,13 @@ const CarDetails = ({ car, onClose, onAddComment }) => {
             <div style={{ display: 'flex', gap: '10px', alignItems: 'center', marginBottom: '5px' }}>
               <span className="car-badge" style={{ position: 'static' }}>{car.serialNumber}</span>
               <span style={{ color: '#a0a0b5' }}>{car.year}年{car.month}月</span>
+              {car.realViews && (
+                <span style={{ color: '#ffb300', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                  <Eye size={16} /> {car.realViews.toLocaleString()} 人看過
+                </span>
+              )}
             </div>
-            <h2 style={{ fontSize: '2rem', margin: 0 }}>{car.name}</h2>
+            <h2 style={{ fontSize: '2rem', margin: 0, color: car.isDiscontinued ? '#ff3366' : '#fff' }}>{car.name}</h2>
           </div>
           <button className="close-btn" onClick={onClose}>
             <X size={24} />
