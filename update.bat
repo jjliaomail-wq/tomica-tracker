@@ -13,7 +13,6 @@ git commit -m "Auto Update"
 echo.
 
 echo [3/3] Pushing to remote repository (GitHub)...
-git push origin main
 git push origin master
 
 echo.

@@ -4,11 +4,12 @@ import { X, TrendingUp, Store, Star, MessageSquare, Send, Eye } from 'lucide-rea
 
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
+    const val = payload[0].value;
     return (
       <div style={{ background: 'rgba(25, 25, 35, 0.9)', border: '1px solid rgba(255,255,255,0.1)', padding: '10px', borderRadius: '8px', color: '#fff' }}>
         <p style={{ margin: 0, color: '#a0a0b5' }}>{label}</p>
-        <p style={{ margin: 0, color: '#00e676', fontWeight: 'bold' }}>
-          NT$ {payload[0].value}
+        <p style={{ margin: 0, color: val != null ? '#00e676' : '#a0a0b5', fontWeight: 'bold' }}>
+          {val != null ? `NT$ ${val}` : '***'}
         </p>
       </div>
     );
@@ -41,11 +42,9 @@ const CarDetails = ({ car, onClose, onAddComment }) => {
             <div style={{ display: 'flex', gap: '10px', alignItems: 'center', marginBottom: '5px' }}>
               <span className="car-badge" style={{ position: 'static' }}>{car.serialNumber}</span>
               <span style={{ color: '#a0a0b5' }}>{car.year}年{car.month}月</span>
-              {car.realViews && (
-                <span style={{ color: '#ffb300', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '4px' }}>
-                  <Eye size={16} /> {car.realViews.toLocaleString()} 人看過
-                </span>
-              )}
+              <span style={{ color: '#ffb300', fontSize: '0.9rem', display: 'flex', alignItems: 'center', gap: '4px' }}>
+                <Eye size={16} /> {(car.realViews || 0).toLocaleString()} 人看過
+              </span>
             </div>
             <h2 style={{ fontSize: '2rem', margin: 0, color: car.isDiscontinued ? '#ff3366' : '#fff' }}>{car.name}</h2>
           </div>
@@ -58,40 +57,48 @@ const CarDetails = ({ car, onClose, onAddComment }) => {
           <div className="chart-container">
             <h3 className="chart-title">
               <TrendingUp size={20} color="#ff3366" />
-              近三年市場價格走勢 (Price History)
+              市場價格走勢 (Price History)
             </h3>
-            <div style={{ height: '300px', width: '100%' }}>
-              <ResponsiveContainer width="100%" height="100%">
-                <LineChart data={car.priceHistory}>
-                  <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" vertical={false} />
-                  <XAxis 
-                    dataKey="date" 
-                    stroke="#a0a0b5" 
-                    tick={{ fill: '#a0a0b5', fontSize: 12 }}
-                    tickLine={false}
-                    axisLine={false}
-                  />
-                  <YAxis 
-                    stroke="#a0a0b5" 
-                    tick={{ fill: '#a0a0b5', fontSize: 12 }}
-                    tickLine={false}
-                    axisLine={false}
-                    domain={['dataMin - 20', 'dataMax + 20']}
-                    tickFormatter={(value) => `NT$${value}`}
-                  />
-                  <Tooltip content={<CustomTooltip />} />
-                  <Line 
-                    type="monotone" 
-                    dataKey="price" 
-                    stroke="#ff3366" 
-                    strokeWidth={3}
-                    dot={{ fill: '#ff3366', r: 4, strokeWidth: 0 }}
-                    activeDot={{ r: 6, stroke: '#fff', strokeWidth: 2 }}
-                    animationDuration={1500}
-                  />
-                </LineChart>
-              </ResponsiveContainer>
-            </div>
+            {car.priceHistory && car.priceHistory.length > 0 ? (
+              <div style={{ height: '300px', width: '100%' }}>
+                <ResponsiveContainer width="100%" height="100%">
+                  <LineChart data={car.priceHistory}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.05)" vertical={false} />
+                    <XAxis 
+                      dataKey="date" 
+                      stroke="#a0a0b5" 
+                      tick={{ fill: '#a0a0b5', fontSize: 12 }}
+                      tickLine={false}
+                      axisLine={false}
+                    />
+                    <YAxis 
+                      stroke="#a0a0b5" 
+                      tick={{ fill: '#a0a0b5', fontSize: 12 }}
+                      tickLine={false}
+                      axisLine={false}
+                      domain={['dataMin - 20', 'dataMax + 20']}
+                      tickFormatter={(value) => `NT$${value}`}
+                    />
+                    <Tooltip content={<CustomTooltip />} />
+                    <Line 
+                      type="monotone" 
+                      dataKey="price" 
+                      stroke={car.isDiscontinued ? '#ff3366' : '#00e676'}
+                      strokeWidth={3}
+                      dot={{ fill: car.isDiscontinued ? '#ff3366' : '#00e676', r: 4, strokeWidth: 0 }}
+                      activeDot={{ r: 6, stroke: '#fff', strokeWidth: 2 }}
+                      animationDuration={1500}
+                      connectNulls={false}
+                    />
+                  </LineChart>
+                </ResponsiveContainer>
+              </div>
+            ) : (
+              <div style={{ padding: '3rem', textAlign: 'center', color: '#a0a0b5' }}>
+                <p style={{ fontSize: '2rem', margin: 0 }}>***</p>
+                <p>尚無價格歷史資料</p>
+              </div>
+            )}
           </div>
 
           <h3 style={{ marginBottom: '1rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>

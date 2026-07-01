@@ -10,24 +10,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 582
+      },
+      {
         "date": "2024-01",
-        "price": 618
+        "price": 649
       },
       {
         "date": "2024-07",
-        "price": 645
+        "price": 659
       },
       {
         "date": "2025-01",
-        "price": 694
+        "price": 663
       },
       {
         "date": "2025-07",
-        "price": 710
+        "price": 707
       },
       {
         "date": "2026-01",
-        "price": 744
+        "price": 739
       },
       {
         "date": "2026-07",
@@ -74,24 +78,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 492
+      },
+      {
         "date": "2024-01",
-        "price": 496
+        "price": 492
       },
       {
         "date": "2024-07",
-        "price": 510
+        "price": 520
       },
       {
         "date": "2025-01",
-        "price": 535
+        "price": 545
       },
       {
         "date": "2025-07",
-        "price": 572
+        "price": 587
       },
       {
         "date": "2026-01",
-        "price": 590
+        "price": 613
       },
       {
         "date": "2026-07",
@@ -138,24 +146,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 160
+      },
+      {
         "date": "2024-01",
-        "price": 152
+        "price": 157
       },
       {
         "date": "2024-07",
-        "price": 124
+        "price": 141
       },
       {
         "date": "2025-01",
-        "price": 144
+        "price": 147
       },
       {
         "date": "2025-07",
-        "price": 125
+        "price": 149
       },
       {
         "date": "2026-01",
-        "price": 139
+        "price": 152
       },
       {
         "date": "2026-07",
@@ -202,24 +214,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 152
+      },
+      {
         "date": "2024-01",
-        "price": 142
+        "price": 155
       },
       {
         "date": "2024-07",
-        "price": 132
+        "price": 154
       },
       {
         "date": "2025-01",
-        "price": 156
+        "price": 149
       },
       {
         "date": "2025-07",
-        "price": 130
+        "price": 153
       },
       {
         "date": "2026-01",
-        "price": 152
+        "price": 158
       },
       {
         "date": "2026-07",
@@ -266,24 +282,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 581
+      },
+      {
         "date": "2024-01",
-        "price": 560
+        "price": 545
       },
       {
         "date": "2024-07",
-        "price": 601
+        "price": 616
       },
       {
         "date": "2025-01",
-        "price": 627
+        "price": 652
       },
       {
         "date": "2025-07",
-        "price": 673
+        "price": 654
       },
       {
         "date": "2026-01",
-        "price": 702
+        "price": 682
       },
       {
         "date": "2026-07",
@@ -330,24 +350,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 384
+      },
+      {
+        "date": "2022-01",
+        "price": 545
+      },
+      {
+        "date": "2022-07",
+        "price": 485
+      },
+      {
+        "date": "2023-01",
+        "price": 513
+      },
+      {
+        "date": "2023-07",
+        "price": 613
+      },
+      {
         "date": "2024-01",
-        "price": 641
+        "price": 600
       },
       {
         "date": "2024-07",
-        "price": 657
+        "price": 602
       },
       {
         "date": "2025-01",
-        "price": 678
+        "price": 665
       },
       {
         "date": "2025-07",
-        "price": 699
+        "price": 700
       },
       {
         "date": "2026-01",
-        "price": 712
+        "price": 724
       },
       {
         "date": "2026-07",
@@ -394,24 +434,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 406
+      },
+      {
+        "date": "2022-01",
+        "price": 568
+      },
+      {
+        "date": "2022-07",
+        "price": 586
+      },
+      {
+        "date": "2023-01",
+        "price": 557
+      },
+      {
+        "date": "2023-07",
+        "price": 577
+      },
+      {
         "date": "2024-01",
-        "price": 699
+        "price": 642
       },
       {
         "date": "2024-07",
-        "price": 722
+        "price": 650
       },
       {
         "date": "2025-01",
-        "price": 735
+        "price": 677
       },
       {
         "date": "2025-07",
-        "price": 765
+        "price": 717
       },
       {
         "date": "2026-01",
-        "price": 778
+        "price": 768
       },
       {
         "date": "2026-07",
@@ -458,24 +518,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 483
+      },
+      {
+        "date": "2022-01",
+        "price": 495
+      },
+      {
+        "date": "2022-07",
+        "price": 563
+      },
+      {
+        "date": "2023-01",
+        "price": 598
+      },
+      {
+        "date": "2023-07",
+        "price": 599
+      },
+      {
         "date": "2024-01",
-        "price": 643
+        "price": 626
       },
       {
         "date": "2024-07",
-        "price": 684
+        "price": 656
       },
       {
         "date": "2025-01",
-        "price": 716
+        "price": 666
       },
       {
         "date": "2025-07",
-        "price": 731
+        "price": 720
       },
       {
         "date": "2026-01",
-        "price": 765
+        "price": 741
       },
       {
         "date": "2026-07",
@@ -522,24 +602,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 631
+      },
+      {
+        "date": "2021-07",
+        "price": 700
+      },
+      {
+        "date": "2022-01",
+        "price": 598
+      },
+      {
+        "date": "2022-07",
+        "price": 701
+      },
+      {
+        "date": "2023-01",
+        "price": 819
+      },
+      {
+        "date": "2023-07",
+        "price": 798
+      },
+      {
         "date": "2024-01",
-        "price": 924
+        "price": 832
       },
       {
         "date": "2024-07",
-        "price": 954
+        "price": 905
       },
       {
         "date": "2025-01",
-        "price": 966
+        "price": 926
       },
       {
         "date": "2025-07",
-        "price": 997
+        "price": 962
       },
       {
         "date": "2026-01",
-        "price": 1037
+        "price": 1023
       },
       {
         "date": "2026-07",
@@ -586,24 +690,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 507
+      },
+      {
+        "date": "2021-07",
+        "price": 511
+      },
+      {
+        "date": "2022-01",
+        "price": 558
+      },
+      {
+        "date": "2022-07",
+        "price": 656
+      },
+      {
+        "date": "2023-01",
+        "price": 764
+      },
+      {
+        "date": "2023-07",
+        "price": 750
+      },
+      {
         "date": "2024-01",
-        "price": 888
+        "price": 774
       },
       {
         "date": "2024-07",
-        "price": 930
+        "price": 838
       },
       {
         "date": "2025-01",
-        "price": 940
+        "price": 862
       },
       {
         "date": "2025-07",
-        "price": 971
+        "price": 939
       },
       {
         "date": "2026-01",
-        "price": 986
+        "price": 966
       },
       {
         "date": "2026-07",
@@ -650,24 +778,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 541
+      },
+      {
+        "date": "2021-07",
+        "price": 577
+      },
+      {
+        "date": "2022-01",
+        "price": 520
+      },
+      {
+        "date": "2022-07",
+        "price": 618
+      },
+      {
+        "date": "2023-01",
+        "price": 588
+      },
+      {
+        "date": "2023-07",
+        "price": 698
+      },
+      {
         "date": "2024-01",
-        "price": 773
+        "price": 683
       },
       {
         "date": "2024-07",
-        "price": 803
+        "price": 757
       },
       {
         "date": "2025-01",
-        "price": 817
+        "price": 767
       },
       {
         "date": "2025-07",
-        "price": 843
+        "price": 826
       },
       {
         "date": "2026-01",
-        "price": 863
+        "price": 862
       },
       {
         "date": "2026-07",
@@ -714,24 +866,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 445
+      },
+      {
+        "date": "2021-07",
+        "price": 491
+      },
+      {
+        "date": "2022-01",
+        "price": 518
+      },
+      {
+        "date": "2022-07",
+        "price": 583
+      },
+      {
+        "date": "2023-01",
+        "price": 640
+      },
+      {
+        "date": "2023-07",
+        "price": 721
+      },
+      {
         "date": "2024-01",
-        "price": 773
+        "price": 683
       },
       {
         "date": "2024-07",
-        "price": 819
+        "price": 763
       },
       {
         "date": "2025-01",
-        "price": 829
+        "price": 804
       },
       {
         "date": "2025-07",
-        "price": 842
+        "price": 818
       },
       {
         "date": "2026-01",
-        "price": 880
+        "price": 854
       },
       {
         "date": "2026-07",
@@ -778,24 +954,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 474
+      },
+      {
+        "date": "2021-01",
+        "price": 497
+      },
+      {
+        "date": "2021-07",
+        "price": 629
+      },
+      {
+        "date": "2022-01",
+        "price": 541
+      },
+      {
+        "date": "2022-07",
+        "price": 648
+      },
+      {
+        "date": "2023-01",
+        "price": 721
+      },
+      {
+        "date": "2023-07",
+        "price": 720
+      },
+      {
         "date": "2024-01",
-        "price": 814
+        "price": 790
       },
       {
         "date": "2024-07",
-        "price": 832
+        "price": 827
       },
       {
         "date": "2025-01",
-        "price": 860
+        "price": 814
       },
       {
         "date": "2025-07",
-        "price": 891
+        "price": 868
       },
       {
         "date": "2026-01",
-        "price": 915
+        "price": 910
       },
       {
         "date": "2026-07",
@@ -842,24 +1046,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 443
+      },
+      {
+        "date": "2021-01",
+        "price": 481
+      },
+      {
+        "date": "2021-07",
+        "price": 557
+      },
+      {
+        "date": "2022-01",
+        "price": 616
+      },
+      {
+        "date": "2022-07",
+        "price": 549
+      },
+      {
+        "date": "2023-01",
+        "price": 576
+      },
+      {
+        "date": "2023-07",
+        "price": 701
+      },
+      {
         "date": "2024-01",
-        "price": 760
+        "price": 669
       },
       {
         "date": "2024-07",
-        "price": 775
+        "price": 719
       },
       {
         "date": "2025-01",
-        "price": 798
+        "price": 805
       },
       {
         "date": "2025-07",
-        "price": 815
+        "price": 799
       },
       {
         "date": "2026-01",
-        "price": 863
+        "price": 850
       },
       {
         "date": "2026-07",
@@ -906,24 +1138,52 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 144
+        "date": "2020-07",
+        "price": 127
       },
       {
-        "date": "2024-07",
-        "price": 134
+        "date": "2021-01",
+        "price": 129
       },
       {
-        "date": "2025-01",
-        "price": 135
+        "date": "2021-07",
+        "price": 132
       },
       {
-        "date": "2025-07",
+        "date": "2022-01",
         "price": 138
       },
       {
+        "date": "2022-07",
+        "price": 127
+      },
+      {
+        "date": "2023-01",
+        "price": 140
+      },
+      {
+        "date": "2023-07",
+        "price": 136
+      },
+      {
+        "date": "2024-01",
+        "price": 132
+      },
+      {
+        "date": "2024-07",
+        "price": 125
+      },
+      {
+        "date": "2025-01",
+        "price": 136
+      },
+      {
+        "date": "2025-07",
+        "price": 127
+      },
+      {
         "date": "2026-01",
-        "price": 148
+        "price": 139
       },
       {
         "date": "2026-07",
@@ -970,24 +1230,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 515
+      },
+      {
+        "date": "2021-01",
+        "price": 665
+      },
+      {
+        "date": "2021-07",
+        "price": 683
+      },
+      {
+        "date": "2022-01",
+        "price": 695
+      },
+      {
+        "date": "2022-07",
+        "price": 627
+      },
+      {
+        "date": "2023-01",
+        "price": 682
+      },
+      {
+        "date": "2023-07",
+        "price": 810
+      },
+      {
         "date": "2024-01",
-        "price": 855
+        "price": 867
       },
       {
         "date": "2024-07",
-        "price": 878
+        "price": 833
       },
       {
         "date": "2025-01",
-        "price": 923
+        "price": 933
       },
       {
         "date": "2025-07",
-        "price": 971
+        "price": 949
       },
       {
         "date": "2026-01",
-        "price": 987
+        "price": 995
       },
       {
         "date": "2026-07",
@@ -1034,24 +1322,52 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 177
+        "date": "2020-07",
+        "price": 165
       },
       {
-        "date": "2024-07",
-        "price": 155
+        "date": "2021-01",
+        "price": 154
       },
       {
-        "date": "2025-01",
-        "price": 162
+        "date": "2021-07",
+        "price": 174
       },
       {
-        "date": "2025-07",
+        "date": "2022-01",
+        "price": 154
+      },
+      {
+        "date": "2022-07",
+        "price": 164
+      },
+      {
+        "date": "2023-01",
+        "price": 160
+      },
+      {
+        "date": "2023-07",
         "price": 163
       },
       {
+        "date": "2024-01",
+        "price": 169
+      },
+      {
+        "date": "2024-07",
+        "price": 162
+      },
+      {
+        "date": "2025-01",
+        "price": 172
+      },
+      {
+        "date": "2025-07",
+        "price": 169
+      },
+      {
         "date": "2026-01",
-        "price": 167
+        "price": 169
       },
       {
         "date": "2026-07",
@@ -1098,24 +1414,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 574
+      },
+      {
+        "date": "2022-07",
+        "price": 669
+      },
+      {
+        "date": "2023-01",
+        "price": 737
+      },
+      {
+        "date": "2023-07",
+        "price": 749
+      },
+      {
         "date": "2024-01",
-        "price": 809
+        "price": 816
       },
       {
         "date": "2024-07",
-        "price": 834
+        "price": 817
       },
       {
         "date": "2025-01",
-        "price": 883
+        "price": 823
       },
       {
         "date": "2025-07",
-        "price": 894
+        "price": 875
       },
       {
         "date": "2026-01",
-        "price": 925
+        "price": 929
       },
       {
         "date": "2026-07",
@@ -1162,24 +1494,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 624
+      },
+      {
+        "date": "2022-07",
+        "price": 682
+      },
+      {
+        "date": "2023-01",
+        "price": 650
+      },
+      {
+        "date": "2023-07",
+        "price": 670
+      },
+      {
         "date": "2024-01",
-        "price": 791
+        "price": 730
       },
       {
         "date": "2024-07",
-        "price": 801
+        "price": 780
       },
       {
         "date": "2025-01",
-        "price": 821
+        "price": 780
       },
       {
         "date": "2025-07",
-        "price": 831
+        "price": 844
       },
       {
         "date": "2026-01",
-        "price": 864
+        "price": 868
       },
       {
         "date": "2026-07",
@@ -1226,24 +1574,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 680
+      },
+      {
+        "date": "2021-01",
+        "price": 615
+      },
+      {
+        "date": "2021-07",
+        "price": 704
+      },
+      {
+        "date": "2022-01",
+        "price": 599
+      },
+      {
+        "date": "2022-07",
+        "price": 669
+      },
+      {
+        "date": "2023-01",
+        "price": 786
+      },
+      {
+        "date": "2023-07",
+        "price": 848
+      },
+      {
         "date": "2024-01",
-        "price": 890
+        "price": 904
       },
       {
         "date": "2024-07",
-        "price": 939
+        "price": 889
       },
       {
         "date": "2025-01",
-        "price": 977
+        "price": 964
       },
       {
         "date": "2025-07",
-        "price": 1002
+        "price": 976
       },
       {
         "date": "2026-01",
-        "price": 1022
+        "price": 1019
       },
       {
         "date": "2026-07",
@@ -1290,24 +1666,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 536
+      },
+      {
+        "date": "2021-01",
+        "price": 692
+      },
+      {
+        "date": "2021-07",
+        "price": 731
+      },
+      {
+        "date": "2022-01",
+        "price": 722
+      },
+      {
+        "date": "2022-07",
+        "price": 667
+      },
+      {
+        "date": "2023-01",
+        "price": 840
+      },
+      {
+        "date": "2023-07",
+        "price": 874
+      },
+      {
         "date": "2024-01",
-        "price": 893
+        "price": 862
       },
       {
         "date": "2024-07",
-        "price": 930
+        "price": 886
       },
       {
         "date": "2025-01",
-        "price": 958
+        "price": 936
       },
       {
         "date": "2025-07",
-        "price": 1004
+        "price": 996
       },
       {
         "date": "2026-01",
-        "price": 1040
+        "price": 1035
       },
       {
         "date": "2026-07",
@@ -1354,24 +1758,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 578
+      },
+      {
+        "date": "2022-07",
+        "price": 600
+      },
+      {
+        "date": "2023-01",
+        "price": 579
+      },
+      {
+        "date": "2023-07",
+        "price": 641
+      },
+      {
         "date": "2024-01",
-        "price": 663
+        "price": 614
       },
       {
         "date": "2024-07",
-        "price": 692
+        "price": 702
       },
       {
         "date": "2025-01",
-        "price": 722
+        "price": 732
       },
       {
         "date": "2025-07",
-        "price": 740
+        "price": 732
       },
       {
         "date": "2026-01",
-        "price": 763
+        "price": 772
       },
       {
         "date": "2026-07",
@@ -1418,24 +1838,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 580
+      },
+      {
+        "date": "2022-07",
+        "price": 520
+      },
+      {
+        "date": "2023-01",
+        "price": 603
+      },
+      {
+        "date": "2023-07",
+        "price": 609
+      },
+      {
         "date": "2024-01",
-        "price": 670
+        "price": 683
       },
       {
         "date": "2024-07",
-        "price": 704
+        "price": 687
       },
       {
         "date": "2025-01",
-        "price": 734
+        "price": 721
       },
       {
         "date": "2025-07",
-        "price": 745
+        "price": 762
       },
       {
         "date": "2026-01",
-        "price": 769
+        "price": 783
       },
       {
         "date": "2026-07",
@@ -1482,24 +1918,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 123
+        "date": "2022-01",
+        "price": 126
       },
       {
-        "date": "2024-07",
+        "date": "2022-07",
+        "price": 132
+      },
+      {
+        "date": "2023-01",
         "price": 140
       },
       {
+        "date": "2023-07",
+        "price": 131
+      },
+      {
+        "date": "2024-01",
+        "price": 137
+      },
+      {
+        "date": "2024-07",
+        "price": 136
+      },
+      {
         "date": "2025-01",
-        "price": 148
+        "price": 131
       },
       {
         "date": "2025-07",
-        "price": 135
+        "price": 125
       },
       {
         "date": "2026-01",
-        "price": 145
+        "price": 134
       },
       {
         "date": "2026-07",
@@ -1546,24 +1998,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 557
+      },
+      {
+        "date": "2022-07",
+        "price": 586
+      },
+      {
+        "date": "2023-01",
+        "price": 633
+      },
+      {
+        "date": "2023-07",
+        "price": 700
+      },
+      {
         "date": "2024-01",
-        "price": 709
+        "price": 701
       },
       {
         "date": "2024-07",
-        "price": 748
+        "price": 735
       },
       {
         "date": "2025-01",
-        "price": 761
+        "price": 746
       },
       {
         "date": "2025-07",
-        "price": 802
+        "price": 792
       },
       {
         "date": "2026-01",
-        "price": 826
+        "price": 816
       },
       {
         "date": "2026-07",
@@ -1610,24 +2078,44 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 172
+      },
+      {
+        "date": "2022-01",
+        "price": 157
+      },
+      {
+        "date": "2022-07",
+        "price": 168
+      },
+      {
+        "date": "2023-01",
+        "price": 168
+      },
+      {
+        "date": "2023-07",
+        "price": 164
+      },
+      {
         "date": "2024-01",
-        "price": 161
+        "price": 168
       },
       {
         "date": "2024-07",
-        "price": 139
+        "price": 165
       },
       {
         "date": "2025-01",
-        "price": 154
+        "price": 166
       },
       {
         "date": "2025-07",
-        "price": 146
+        "price": 162
       },
       {
         "date": "2026-01",
-        "price": 157
+        "price": 166
       },
       {
         "date": "2026-07",
@@ -1674,24 +2162,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 766
+        "date": "2021-07",
+        "price": 547
       },
       {
-        "date": "2024-07",
+        "date": "2022-01",
+        "price": 537
+      },
+      {
+        "date": "2022-07",
+        "price": 630
+      },
+      {
+        "date": "2023-01",
+        "price": 635
+      },
+      {
+        "date": "2023-07",
+        "price": 770
+      },
+      {
+        "date": "2024-01",
         "price": 800
       },
       {
+        "date": "2024-07",
+        "price": 808
+      },
+      {
         "date": "2025-01",
-        "price": 830
+        "price": 846
       },
       {
         "date": "2025-07",
-        "price": 879
+        "price": 864
       },
       {
         "date": "2026-01",
-        "price": 914
+        "price": 921
       },
       {
         "date": "2026-07",
@@ -1739,23 +2247,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 529
+        "price": 568
       },
       {
         "date": "2024-07",
-        "price": 563
+        "price": 601
       },
       {
         "date": "2025-01",
-        "price": 605
+        "price": 624
       },
       {
         "date": "2025-07",
-        "price": 619
+        "price": 656
       },
       {
         "date": "2026-01",
-        "price": 655
+        "price": 677
       },
       {
         "date": "2026-07",
@@ -1803,23 +2311,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 528
+        "price": 541
       },
       {
         "date": "2024-07",
-        "price": 546
+        "price": 584
       },
       {
         "date": "2025-01",
-        "price": 594
+        "price": 617
       },
       {
         "date": "2025-07",
-        "price": 620
+        "price": 634
       },
       {
         "date": "2026-01",
-        "price": 649
+        "price": 658
       },
       {
         "date": "2026-07",
@@ -1866,6 +2374,14 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 603
+      },
+      {
+        "date": "2023-07",
+        "price": 622
+      },
+      {
         "date": "2024-01",
         "price": 662
       },
@@ -1875,15 +2391,15 @@ export const tomicaData = [
       },
       {
         "date": "2025-01",
-        "price": 712
+        "price": 716
       },
       {
         "date": "2025-07",
-        "price": 743
+        "price": 744
       },
       {
         "date": "2026-01",
-        "price": 780
+        "price": 779
       },
       {
         "date": "2026-07",
@@ -1930,24 +2446,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 166
+      },
+      {
+        "date": "2023-07",
+        "price": 151
+      },
+      {
         "date": "2024-01",
-        "price": 155
+        "price": 161
       },
       {
         "date": "2024-07",
-        "price": 153
+        "price": 162
       },
       {
         "date": "2025-01",
-        "price": 158
+        "price": 151
       },
       {
         "date": "2025-07",
-        "price": 170
+        "price": 172
       },
       {
         "date": "2026-01",
-        "price": 166
+        "price": 171
       },
       {
         "date": "2026-07",
@@ -1994,24 +2518,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 568
+      },
+      {
         "date": "2024-01",
-        "price": 578
+        "price": 542
       },
       {
         "date": "2024-07",
-        "price": 608
+        "price": 596
       },
       {
         "date": "2025-01",
-        "price": 627
+        "price": 633
       },
       {
         "date": "2025-07",
-        "price": 656
+        "price": 658
       },
       {
         "date": "2026-01",
-        "price": 689
+        "price": 675
       },
       {
         "date": "2026-07",
@@ -2058,24 +2586,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 406
+      },
+      {
         "date": "2024-01",
-        "price": 430
+        "price": 467
       },
       {
         "date": "2024-07",
-        "price": 446
+        "price": 462
       },
       {
         "date": "2025-01",
-        "price": 460
+        "price": 507
       },
       {
         "date": "2025-07",
-        "price": 498
+        "price": 516
       },
       {
         "date": "2026-01",
-        "price": 531
+        "price": 543
       },
       {
         "date": "2026-07",
@@ -2122,24 +2654,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 423
+      },
+      {
         "date": "2024-01",
-        "price": 452
+        "price": 438
       },
       {
         "date": "2024-07",
-        "price": 470
+        "price": 461
       },
       {
         "date": "2025-01",
-        "price": 484
+        "price": 515
       },
       {
         "date": "2025-07",
-        "price": 495
+        "price": 532
       },
       {
         "date": "2026-01",
-        "price": 527
+        "price": 542
       },
       {
         "date": "2026-07",
@@ -2186,24 +2722,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 602
+      },
+      {
         "date": "2024-01",
-        "price": 619
+        "price": 607
       },
       {
         "date": "2024-07",
-        "price": 652
+        "price": 683
       },
       {
         "date": "2025-01",
-        "price": 687
+        "price": 688
       },
       {
         "date": "2025-07",
-        "price": 722
+        "price": 701
       },
       {
         "date": "2026-01",
-        "price": 750
+        "price": 741
       },
       {
         "date": "2026-07",
@@ -2250,24 +2790,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 554
+      },
+      {
         "date": "2024-01",
-        "price": 544
+        "price": 563
       },
       {
         "date": "2024-07",
-        "price": 578
+        "price": 566
       },
       {
         "date": "2025-01",
-        "price": 624
+        "price": 606
       },
       {
         "date": "2025-07",
-        "price": 645
+        "price": 617
       },
       {
         "date": "2026-01",
-        "price": 666
+        "price": 660
       },
       {
         "date": "2026-07",
@@ -2314,24 +2858,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 166
+      },
+      {
         "date": "2024-01",
-        "price": 150
+        "price": 175
       },
       {
         "date": "2024-07",
-        "price": 155
+        "price": 168
       },
       {
         "date": "2025-01",
-        "price": 154
+        "price": 161
       },
       {
         "date": "2025-07",
-        "price": 177
+        "price": 174
       },
       {
         "date": "2026-01",
-        "price": 176
+        "price": 170
       },
       {
         "date": "2026-07",
@@ -2378,24 +2926,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 502
+      },
+      {
+        "date": "2022-01",
+        "price": 597
+      },
+      {
+        "date": "2022-07",
+        "price": 646
+      },
+      {
+        "date": "2023-01",
+        "price": 621
+      },
+      {
+        "date": "2023-07",
+        "price": 656
+      },
+      {
         "date": "2024-01",
-        "price": 783
+        "price": 687
       },
       {
         "date": "2024-07",
-        "price": 794
+        "price": 771
       },
       {
         "date": "2025-01",
-        "price": 806
+        "price": 791
       },
       {
         "date": "2025-07",
-        "price": 818
+        "price": 828
       },
       {
         "date": "2026-01",
-        "price": 849
+        "price": 854
       },
       {
         "date": "2026-07",
@@ -2442,24 +3010,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 576
+      },
+      {
+        "date": "2022-01",
+        "price": 519
+      },
+      {
+        "date": "2022-07",
+        "price": 563
+      },
+      {
+        "date": "2023-01",
+        "price": 724
+      },
+      {
+        "date": "2023-07",
+        "price": 665
+      },
+      {
         "date": "2024-01",
-        "price": 765
+        "price": 781
       },
       {
         "date": "2024-07",
-        "price": 780
+        "price": 757
       },
       {
         "date": "2025-01",
-        "price": 816
+        "price": 830
       },
       {
         "date": "2025-07",
-        "price": 849
+        "price": 864
       },
       {
         "date": "2026-01",
-        "price": 898
+        "price": 889
       },
       {
         "date": "2026-07",
@@ -2506,24 +3094,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 560
+      },
+      {
+        "date": "2021-07",
+        "price": 627
+      },
+      {
+        "date": "2022-01",
+        "price": 596
+      },
+      {
+        "date": "2022-07",
+        "price": 646
+      },
+      {
+        "date": "2023-01",
+        "price": 789
+      },
+      {
+        "date": "2023-07",
+        "price": 762
+      },
+      {
         "date": "2024-01",
-        "price": 852
+        "price": 805
       },
       {
         "date": "2024-07",
-        "price": 891
+        "price": 830
       },
       {
         "date": "2025-01",
-        "price": 934
+        "price": 878
       },
       {
         "date": "2025-07",
-        "price": 947
+        "price": 920
       },
       {
         "date": "2026-01",
-        "price": 985
+        "price": 984
       },
       {
         "date": "2026-07",
@@ -2570,12 +3182,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 480
+      },
+      {
+        "date": "2021-07",
+        "price": 536
+      },
+      {
+        "date": "2022-01",
+        "price": 657
+      },
+      {
+        "date": "2022-07",
+        "price": 617
+      },
+      {
+        "date": "2023-01",
+        "price": 636
+      },
+      {
+        "date": "2023-07",
+        "price": 780
+      },
+      {
         "date": "2024-01",
-        "price": 825
+        "price": 750
       },
       {
         "date": "2024-07",
-        "price": 844
+        "price": 795
       },
       {
         "date": "2025-01",
@@ -2583,11 +3219,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 874
+        "price": 891
       },
       {
         "date": "2026-01",
-        "price": 919
+        "price": 917
       },
       {
         "date": "2026-07",
@@ -2634,24 +3270,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 664
+      },
+      {
+        "date": "2021-07",
+        "price": 537
+      },
+      {
+        "date": "2022-01",
+        "price": 618
+      },
+      {
+        "date": "2022-07",
+        "price": 646
+      },
+      {
+        "date": "2023-01",
+        "price": 768
+      },
+      {
+        "date": "2023-07",
+        "price": 868
+      },
+      {
         "date": "2024-01",
-        "price": 920
+        "price": 854
       },
       {
         "date": "2024-07",
-        "price": 933
+        "price": 884
       },
       {
         "date": "2025-01",
-        "price": 972
+        "price": 964
       },
       {
         "date": "2025-07",
-        "price": 1000
+        "price": 959
       },
       {
         "date": "2026-01",
-        "price": 1041
+        "price": 1014
       },
       {
         "date": "2026-07",
@@ -2698,16 +3358,8 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 492
-      },
-      {
-        "date": "2024-07",
-        "price": 506
-      },
-      {
         "date": "2025-01",
-        "price": 546
+        "price": 571
       },
       {
         "date": "2025-07",
@@ -2715,7 +3367,7 @@ export const tomicaData = [
       },
       {
         "date": "2026-01",
-        "price": 599
+        "price": 612
       },
       {
         "date": "2026-07",
@@ -2762,24 +3414,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 151
-      },
-      {
-        "date": "2024-07",
-        "price": 154
-      },
-      {
         "date": "2025-01",
-        "price": 160
+        "price": 178
       },
       {
         "date": "2025-07",
-        "price": 155
+        "price": 159
       },
       {
         "date": "2026-01",
-        "price": 159
+        "price": 176
       },
       {
         "date": "2026-07",
@@ -2826,24 +3470,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 170
-      },
-      {
-        "date": "2024-07",
-        "price": 166
-      },
-      {
         "date": "2025-01",
-        "price": 155
+        "price": 150
       },
       {
         "date": "2025-07",
-        "price": 145
+        "price": 158
       },
       {
         "date": "2026-01",
-        "price": 151
+        "price": 144
       },
       {
         "date": "2026-07",
@@ -2890,24 +3526,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 437
+      },
+      {
+        "date": "2023-01",
+        "price": 558
+      },
+      {
+        "date": "2023-07",
+        "price": 534
+      },
+      {
         "date": "2024-01",
-        "price": 526
+        "price": 585
       },
       {
         "date": "2024-07",
-        "price": 557
+        "price": 630
       },
       {
         "date": "2025-01",
-        "price": 601
+        "price": 628
       },
       {
         "date": "2025-07",
-        "price": 649
+        "price": 677
       },
       {
         "date": "2026-01",
-        "price": 698
+        "price": 694
       },
       {
         "date": "2026-07",
@@ -2954,24 +3602,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 638
+      },
+      {
+        "date": "2023-01",
+        "price": 560
+      },
+      {
+        "date": "2023-07",
+        "price": 645
+      },
+      {
         "date": "2024-01",
-        "price": 707
+        "price": 719
       },
       {
         "date": "2024-07",
-        "price": 751
+        "price": 720
       },
       {
         "date": "2025-01",
-        "price": 785
+        "price": 764
       },
       {
         "date": "2025-07",
-        "price": 809
+        "price": 774
       },
       {
         "date": "2026-01",
-        "price": 842
+        "price": 833
       },
       {
         "date": "2026-07",
@@ -3018,24 +3678,36 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 178
+        "date": "2022-07",
+        "price": 153
       },
       {
-        "date": "2024-07",
-        "price": 162
+        "date": "2023-01",
+        "price": 144
       },
       {
-        "date": "2025-01",
-        "price": 161
-      },
-      {
-        "date": "2025-07",
+        "date": "2023-07",
         "price": 152
       },
       {
+        "date": "2024-01",
+        "price": 143
+      },
+      {
+        "date": "2024-07",
+        "price": 158
+      },
+      {
+        "date": "2025-01",
+        "price": 160
+      },
+      {
+        "date": "2025-07",
+        "price": 159
+      },
+      {
         "date": "2026-01",
-        "price": 157
+        "price": 148
       },
       {
         "date": "2026-07",
@@ -3082,24 +3754,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 498
+      },
+      {
         "date": "2024-01",
-        "price": 506
+        "price": 485
       },
       {
         "date": "2024-07",
-        "price": 533
+        "price": 516
       },
       {
         "date": "2025-01",
-        "price": 554
+        "price": 561
       },
       {
         "date": "2025-07",
-        "price": 576
+        "price": 571
       },
       {
         "date": "2026-01",
-        "price": 612
+        "price": 598
       },
       {
         "date": "2026-07",
@@ -3146,16 +3822,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 411
+      },
+      {
         "date": "2024-01",
-        "price": 464
+        "price": 489
       },
       {
         "date": "2024-07",
-        "price": 503
+        "price": 475
       },
       {
         "date": "2025-01",
-        "price": 517
+        "price": 522
       },
       {
         "date": "2025-07",
@@ -3163,7 +3843,7 @@ export const tomicaData = [
       },
       {
         "date": "2026-01",
-        "price": 573
+        "price": 560
       },
       {
         "date": "2026-07",
@@ -3210,24 +3890,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 477
+      },
+      {
         "date": "2024-01",
-        "price": 475
+        "price": 558
       },
       {
         "date": "2024-07",
-        "price": 510
+        "price": 552
       },
       {
         "date": "2025-01",
-        "price": 555
+        "price": 574
       },
       {
         "date": "2025-07",
-        "price": 603
+        "price": 599
       },
       {
         "date": "2026-01",
-        "price": 625
+        "price": 632
       },
       {
         "date": "2026-07",
@@ -3274,24 +3958,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 504
+      },
+      {
         "date": "2024-01",
-        "price": 547
+        "price": 550
       },
       {
         "date": "2024-07",
-        "price": 566
+        "price": 585
       },
       {
         "date": "2025-01",
-        "price": 612
+        "price": 591
       },
       {
         "date": "2025-07",
-        "price": 638
+        "price": 642
       },
       {
         "date": "2026-01",
-        "price": 678
+        "price": 666
       },
       {
         "date": "2026-07",
@@ -3338,24 +4026,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 571
+      },
+      {
+        "date": "2022-07",
+        "price": 512
+      },
+      {
+        "date": "2023-01",
+        "price": 543
+      },
+      {
+        "date": "2023-07",
+        "price": 584
+      },
+      {
         "date": "2024-01",
-        "price": 665
+        "price": 645
       },
       {
         "date": "2024-07",
-        "price": 677
+        "price": 647
       },
       {
         "date": "2025-01",
-        "price": 705
+        "price": 681
       },
       {
         "date": "2025-07",
-        "price": 720
+        "price": 736
       },
       {
         "date": "2026-01",
-        "price": 744
+        "price": 757
       },
       {
         "date": "2026-07",
@@ -3402,24 +4106,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 483
+      },
+      {
+        "date": "2022-07",
+        "price": 500
+      },
+      {
+        "date": "2023-01",
+        "price": 527
+      },
+      {
+        "date": "2023-07",
+        "price": 593
+      },
+      {
         "date": "2024-01",
-        "price": 701
+        "price": 676
       },
       {
         "date": "2024-07",
-        "price": 711
+        "price": 702
       },
       {
         "date": "2025-01",
-        "price": 729
+        "price": 723
       },
       {
         "date": "2025-07",
-        "price": 745
+        "price": 751
       },
       {
         "date": "2026-01",
-        "price": 763
+        "price": 775
       },
       {
         "date": "2026-07",
@@ -3466,24 +4186,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 415
+      },
+      {
+        "date": "2022-01",
+        "price": 471
+      },
+      {
+        "date": "2022-07",
+        "price": 585
+      },
+      {
+        "date": "2023-01",
+        "price": 578
+      },
+      {
+        "date": "2023-07",
+        "price": 593
+      },
+      {
         "date": "2024-01",
-        "price": 628
+        "price": 630
       },
       {
         "date": "2024-07",
-        "price": 673
+        "price": 642
       },
       {
         "date": "2025-01",
-        "price": 699
+        "price": 657
       },
       {
         "date": "2025-07",
-        "price": 722
+        "price": 696
       },
       {
         "date": "2026-01",
-        "price": 762
+        "price": 744
       },
       {
         "date": "2026-07",
@@ -3530,24 +4270,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 493
+      },
+      {
+        "date": "2022-01",
+        "price": 550
+      },
+      {
+        "date": "2022-07",
+        "price": 588
+      },
+      {
+        "date": "2023-01",
+        "price": 578
+      },
+      {
+        "date": "2023-07",
+        "price": 668
+      },
+      {
         "date": "2024-01",
-        "price": 746
+        "price": 723
       },
       {
         "date": "2024-07",
-        "price": 763
+        "price": 729
       },
       {
         "date": "2025-01",
-        "price": 785
+        "price": 758
       },
       {
         "date": "2025-07",
-        "price": 797
+        "price": 824
       },
       {
         "date": "2026-01",
-        "price": 839
+        "price": 844
       },
       {
         "date": "2026-07",
@@ -3594,24 +4354,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 476
+      },
+      {
+        "date": "2023-01",
+        "price": 516
+      },
+      {
+        "date": "2023-07",
+        "price": 550
+      },
+      {
         "date": "2024-01",
-        "price": 559
+        "price": 576
       },
       {
         "date": "2024-07",
-        "price": 605
+        "price": 625
       },
       {
         "date": "2025-01",
-        "price": 646
+        "price": 631
       },
       {
         "date": "2025-07",
-        "price": 691
+        "price": 672
       },
       {
         "date": "2026-01",
-        "price": 720
+        "price": 701
       },
       {
         "date": "2026-07",
@@ -3658,12 +4430,24 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 454
+      },
+      {
+        "date": "2023-01",
+        "price": 497
+      },
+      {
+        "date": "2023-07",
+        "price": 557
+      },
+      {
         "date": "2024-01",
-        "price": 585
+        "price": 586
       },
       {
         "date": "2024-07",
-        "price": 620
+        "price": 632
       },
       {
         "date": "2025-01",
@@ -3671,11 +4455,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 681
+        "price": 663
       },
       {
         "date": "2026-01",
-        "price": 710
+        "price": 695
       },
       {
         "date": "2026-07",
@@ -3722,24 +4506,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 528
+      },
+      {
+        "date": "2023-01",
+        "price": 624
+      },
+      {
+        "date": "2023-07",
+        "price": 614
+      },
+      {
         "date": "2024-01",
-        "price": 680
+        "price": 685
       },
       {
         "date": "2024-07",
-        "price": 709
+        "price": 730
       },
       {
         "date": "2025-01",
-        "price": 743
+        "price": 720
       },
       {
         "date": "2025-07",
-        "price": 758
+        "price": 765
       },
       {
         "date": "2026-01",
-        "price": 802
+        "price": 808
       },
       {
         "date": "2026-07",
@@ -3786,24 +4582,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 495
+      },
+      {
+        "date": "2023-01",
+        "price": 540
+      },
+      {
+        "date": "2023-07",
+        "price": 623
+      },
+      {
         "date": "2024-01",
-        "price": 639
+        "price": 645
       },
       {
         "date": "2024-07",
-        "price": 671
+        "price": 647
       },
       {
         "date": "2025-01",
-        "price": 709
+        "price": 711
       },
       {
         "date": "2025-07",
-        "price": 756
+        "price": 734
       },
       {
         "date": "2026-01",
-        "price": 782
+        "price": 774
       },
       {
         "date": "2026-07",
@@ -3850,24 +4658,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 471
+      },
+      {
+        "date": "2021-07",
+        "price": 479
+      },
+      {
+        "date": "2022-01",
+        "price": 596
+      },
+      {
+        "date": "2022-07",
+        "price": 595
+      },
+      {
+        "date": "2023-01",
+        "price": 698
+      },
+      {
+        "date": "2023-07",
+        "price": 641
+      },
+      {
         "date": "2024-01",
-        "price": 761
+        "price": 752
       },
       {
         "date": "2024-07",
-        "price": 794
+        "price": 792
       },
       {
         "date": "2025-01",
-        "price": 811
+        "price": 800
       },
       {
         "date": "2025-07",
-        "price": 859
+        "price": 843
       },
       {
         "date": "2026-01",
-        "price": 898
+        "price": 881
       },
       {
         "date": "2026-07",
@@ -3914,24 +4746,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 463
+      },
+      {
+        "date": "2021-07",
+        "price": 570
+      },
+      {
+        "date": "2022-01",
+        "price": 543
+      },
+      {
+        "date": "2022-07",
+        "price": 670
+      },
+      {
+        "date": "2023-01",
+        "price": 621
+      },
+      {
+        "date": "2023-07",
+        "price": 627
+      },
+      {
         "date": "2024-01",
-        "price": 745
+        "price": 721
       },
       {
         "date": "2024-07",
-        "price": 772
+        "price": 730
       },
       {
         "date": "2025-01",
-        "price": 816
+        "price": 779
       },
       {
         "date": "2025-07",
-        "price": 834
+        "price": 802
       },
       {
         "date": "2026-01",
-        "price": 858
+        "price": 841
       },
       {
         "date": "2026-07",
@@ -3978,24 +4834,48 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 161
+      },
+      {
+        "date": "2021-07",
+        "price": 145
+      },
+      {
+        "date": "2022-01",
+        "price": 157
+      },
+      {
+        "date": "2022-07",
+        "price": 161
+      },
+      {
+        "date": "2023-01",
+        "price": 158
+      },
+      {
+        "date": "2023-07",
+        "price": 148
+      },
+      {
         "date": "2024-01",
-        "price": 130
+        "price": 154
       },
       {
         "date": "2024-07",
-        "price": 126
+        "price": 144
       },
       {
         "date": "2025-01",
-        "price": 125
+        "price": 146
       },
       {
         "date": "2025-07",
-        "price": 137
+        "price": 156
       },
       {
         "date": "2026-01",
-        "price": 136
+        "price": 142
       },
       {
         "date": "2026-07",
@@ -4042,24 +4922,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 518
+      },
+      {
+        "date": "2021-07",
+        "price": 650
+      },
+      {
+        "date": "2022-01",
+        "price": 542
+      },
+      {
+        "date": "2022-07",
+        "price": 710
+      },
+      {
+        "date": "2023-01",
+        "price": 660
+      },
+      {
+        "date": "2023-07",
+        "price": 763
+      },
+      {
         "date": "2024-01",
-        "price": 792
+        "price": 708
       },
       {
         "date": "2024-07",
-        "price": 825
+        "price": 781
       },
       {
         "date": "2025-01",
-        "price": 871
+        "price": 817
       },
       {
         "date": "2025-07",
-        "price": 894
+        "price": 845
       },
       {
         "date": "2026-01",
-        "price": 907
+        "price": 905
       },
       {
         "date": "2026-07",
@@ -4106,24 +5010,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 719
+      },
+      {
+        "date": "2021-07",
+        "price": 724
+      },
+      {
+        "date": "2022-01",
+        "price": 659
+      },
+      {
+        "date": "2022-07",
+        "price": 671
+      },
+      {
+        "date": "2023-01",
+        "price": 764
+      },
+      {
+        "date": "2023-07",
+        "price": 839
+      },
+      {
         "date": "2024-01",
-        "price": 909
+        "price": 850
       },
       {
         "date": "2024-07",
-        "price": 955
+        "price": 925
       },
       {
         "date": "2025-01",
-        "price": 996
+        "price": 933
       },
       {
         "date": "2025-07",
-        "price": 1041
+        "price": 986
       },
       {
         "date": "2026-01",
-        "price": 1067
+        "price": 1057
       },
       {
         "date": "2026-07",
@@ -4170,24 +5098,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 644
+      },
+      {
+        "date": "2021-07",
+        "price": 565
+      },
+      {
+        "date": "2022-01",
+        "price": 599
+      },
+      {
+        "date": "2022-07",
+        "price": 596
+      },
+      {
+        "date": "2023-01",
+        "price": 660
+      },
+      {
+        "date": "2023-07",
+        "price": 786
+      },
+      {
         "date": "2024-01",
-        "price": 832
+        "price": 740
       },
       {
         "date": "2024-07",
-        "price": 868
+        "price": 808
       },
       {
         "date": "2025-01",
-        "price": 909
+        "price": 874
       },
       {
         "date": "2025-07",
-        "price": 957
+        "price": 914
       },
       {
         "date": "2026-01",
-        "price": 972
+        "price": 946
       },
       {
         "date": "2026-07",
@@ -4234,24 +5186,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 546
+      },
+      {
+        "date": "2021-07",
+        "price": 543
+      },
+      {
+        "date": "2022-01",
+        "price": 639
+      },
+      {
+        "date": "2022-07",
+        "price": 619
+      },
+      {
+        "date": "2023-01",
+        "price": 770
+      },
+      {
+        "date": "2023-07",
+        "price": 798
+      },
+      {
         "date": "2024-01",
-        "price": 871
+        "price": 735
       },
       {
         "date": "2024-07",
-        "price": 892
+        "price": 852
       },
       {
         "date": "2025-01",
-        "price": 926
+        "price": 859
       },
       {
         "date": "2025-07",
-        "price": 938
+        "price": 919
       },
       {
         "date": "2026-01",
-        "price": 948
+        "price": 936
       },
       {
         "date": "2026-07",
@@ -4298,24 +5274,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 533
+      },
+      {
+        "date": "2022-01",
+        "price": 546
+      },
+      {
+        "date": "2022-07",
+        "price": 620
+      },
+      {
+        "date": "2023-01",
+        "price": 618
+      },
+      {
+        "date": "2023-07",
+        "price": 625
+      },
+      {
         "date": "2024-01",
-        "price": 657
+        "price": 636
       },
       {
         "date": "2024-07",
-        "price": 681
+        "price": 693
       },
       {
         "date": "2025-01",
-        "price": 716
+        "price": 707
       },
       {
         "date": "2025-07",
-        "price": 751
+        "price": 773
       },
       {
         "date": "2026-01",
-        "price": 782
+        "price": 803
       },
       {
         "date": "2026-07",
@@ -4362,24 +5358,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 448
+      },
+      {
+        "date": "2022-01",
+        "price": 586
+      },
+      {
+        "date": "2022-07",
+        "price": 517
+      },
+      {
+        "date": "2023-01",
+        "price": 549
+      },
+      {
+        "date": "2023-07",
+        "price": 689
+      },
+      {
         "date": "2024-01",
-        "price": 665
+        "price": 697
       },
       {
         "date": "2024-07",
-        "price": 707
+        "price": 739
       },
       {
         "date": "2025-01",
-        "price": 720
+        "price": 762
       },
       {
         "date": "2025-07",
-        "price": 764
+        "price": 790
       },
       {
         "date": "2026-01",
-        "price": 797
+        "price": 802
       },
       {
         "date": "2026-07",
@@ -4426,24 +5442,44 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 166
+        "date": "2021-07",
+        "price": 180
       },
       {
-        "date": "2024-07",
-        "price": 159
-      },
-      {
-        "date": "2025-01",
-        "price": 159
-      },
-      {
-        "date": "2025-07",
+        "date": "2022-01",
         "price": 171
       },
       {
+        "date": "2022-07",
+        "price": 169
+      },
+      {
+        "date": "2023-01",
+        "price": 170
+      },
+      {
+        "date": "2023-07",
+        "price": 180
+      },
+      {
+        "date": "2024-01",
+        "price": 171
+      },
+      {
+        "date": "2024-07",
+        "price": 181
+      },
+      {
+        "date": "2025-01",
+        "price": 176
+      },
+      {
+        "date": "2025-07",
+        "price": 178
+      },
+      {
         "date": "2026-01",
-        "price": 156
+        "price": 170
       },
       {
         "date": "2026-07",
@@ -4490,24 +5526,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 530
+      },
+      {
+        "date": "2022-01",
+        "price": 543
+      },
+      {
+        "date": "2022-07",
+        "price": 673
+      },
+      {
+        "date": "2023-01",
+        "price": 665
+      },
+      {
+        "date": "2023-07",
+        "price": 683
+      },
+      {
         "date": "2024-01",
-        "price": 747
+        "price": 710
       },
       {
         "date": "2024-07",
-        "price": 795
+        "price": 796
       },
       {
         "date": "2025-01",
-        "price": 812
+        "price": 813
       },
       {
         "date": "2025-07",
-        "price": 858
+        "price": 822
       },
       {
         "date": "2026-01",
-        "price": 888
+        "price": 882
       },
       {
         "date": "2026-07",
@@ -4554,8 +5610,16 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 475
+      },
+      {
+        "date": "2023-07",
+        "price": 537
+      },
+      {
         "date": "2024-01",
-        "price": 569
+        "price": 574
       },
       {
         "date": "2024-07",
@@ -4563,15 +5627,15 @@ export const tomicaData = [
       },
       {
         "date": "2025-01",
-        "price": 620
+        "price": 616
       },
       {
         "date": "2025-07",
-        "price": 635
+        "price": 638
       },
       {
         "date": "2026-01",
-        "price": 682
+        "price": 668
       },
       {
         "date": "2026-07",
@@ -4618,24 +5682,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 511
+      },
+      {
+        "date": "2023-07",
+        "price": 562
+      },
+      {
         "date": "2024-01",
-        "price": 633
+        "price": 555
       },
       {
         "date": "2024-07",
-        "price": 654
+        "price": 619
       },
       {
         "date": "2025-01",
-        "price": 670
+        "price": 609
       },
       {
         "date": "2025-07",
-        "price": 683
+        "price": 652
       },
       {
         "date": "2026-01",
-        "price": 697
+        "price": 675
       },
       {
         "date": "2026-07",
@@ -4682,24 +5754,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 123
+      },
+      {
+        "date": "2023-07",
+        "price": 133
+      },
+      {
         "date": "2024-01",
-        "price": 109
+        "price": 139
       },
       {
         "date": "2024-07",
-        "price": 116
+        "price": 130
       },
       {
         "date": "2025-01",
-        "price": 131
+        "price": 122
       },
       {
         "date": "2025-07",
-        "price": 112
+        "price": 126
       },
       {
         "date": "2026-01",
-        "price": 127
+        "price": 139
       },
       {
         "date": "2026-07",
@@ -4746,24 +5826,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 494
+      },
+      {
+        "date": "2023-07",
+        "price": 485
+      },
+      {
         "date": "2024-01",
-        "price": 574
+        "price": 533
       },
       {
         "date": "2024-07",
-        "price": 596
+        "price": 554
       },
       {
         "date": "2025-01",
-        "price": 626
+        "price": 599
       },
       {
         "date": "2025-07",
-        "price": 646
+        "price": 637
       },
       {
         "date": "2026-01",
-        "price": 661
+        "price": 648
       },
       {
         "date": "2026-07",
@@ -4810,24 +5898,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 165
+      },
+      {
+        "date": "2023-07",
+        "price": 158
+      },
+      {
         "date": "2024-01",
-        "price": 154
+        "price": 162
       },
       {
         "date": "2024-07",
-        "price": 170
+        "price": 163
       },
       {
         "date": "2025-01",
-        "price": 161
+        "price": 164
       },
       {
         "date": "2025-07",
-        "price": 154
+        "price": 170
       },
       {
         "date": "2026-01",
-        "price": 160
+        "price": 176
       },
       {
         "date": "2026-07",
@@ -4874,24 +5970,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 116
+        "date": "2023-01",
+        "price": 127
       },
       {
-        "date": "2024-07",
+        "date": "2023-07",
+        "price": 118
+      },
+      {
+        "date": "2024-01",
         "price": 132
       },
       {
+        "date": "2024-07",
+        "price": 128
+      },
+      {
         "date": "2025-01",
-        "price": 121
+        "price": 127
       },
       {
         "date": "2025-07",
-        "price": 113
+        "price": 130
       },
       {
         "date": "2026-01",
-        "price": 105
+        "price": 130
       },
       {
         "date": "2026-07",
@@ -4938,24 +6042,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 148
+      },
+      {
+        "date": "2023-07",
+        "price": 168
+      },
+      {
         "date": "2024-01",
-        "price": 137
+        "price": 158
       },
       {
         "date": "2024-07",
-        "price": 162
+        "price": 167
       },
       {
         "date": "2025-01",
-        "price": 134
+        "price": 167
       },
       {
         "date": "2025-07",
-        "price": 147
+        "price": 150
       },
       {
         "date": "2026-01",
-        "price": 143
+        "price": 162
       },
       {
         "date": "2026-07",
@@ -5002,24 +6114,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 183
+      },
+      {
+        "date": "2022-07",
+        "price": 169
+      },
+      {
+        "date": "2023-01",
+        "price": 186
+      },
+      {
+        "date": "2023-07",
+        "price": 170
+      },
+      {
         "date": "2024-01",
-        "price": 164
+        "price": 169
       },
       {
         "date": "2024-07",
-        "price": 164
+        "price": 171
       },
       {
         "date": "2025-01",
-        "price": 160
+        "price": 172
       },
       {
         "date": "2025-07",
-        "price": 175
+        "price": 177
       },
       {
         "date": "2026-01",
-        "price": 155
+        "price": 163
       },
       {
         "date": "2026-07",
@@ -5066,24 +6194,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 172
+        "date": "2022-01",
+        "price": 157
       },
       {
-        "date": "2024-07",
+        "date": "2022-07",
         "price": 156
       },
       {
+        "date": "2023-01",
+        "price": 152
+      },
+      {
+        "date": "2023-07",
+        "price": 157
+      },
+      {
+        "date": "2024-01",
+        "price": 147
+      },
+      {
+        "date": "2024-07",
+        "price": 137
+      },
+      {
         "date": "2025-01",
-        "price": 163
+        "price": 139
       },
       {
         "date": "2025-07",
-        "price": 163
+        "price": 136
       },
       {
         "date": "2026-01",
-        "price": 167
+        "price": 153
       },
       {
         "date": "2026-07",
@@ -5130,24 +6274,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 141
+      },
+      {
+        "date": "2022-07",
+        "price": 148
+      },
+      {
+        "date": "2023-01",
+        "price": 145
+      },
+      {
+        "date": "2023-07",
+        "price": 147
+      },
+      {
         "date": "2024-01",
-        "price": 162
+        "price": 151
       },
       {
         "date": "2024-07",
-        "price": 155
+        "price": 161
       },
       {
         "date": "2025-01",
-        "price": 163
+        "price": 147
       },
       {
         "date": "2025-07",
-        "price": 150
+        "price": 143
       },
       {
         "date": "2026-01",
-        "price": 170
+        "price": 141
       },
       {
         "date": "2026-07",
@@ -5194,24 +6354,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 125
-      },
-      {
-        "date": "2024-07",
+        "date": "2022-01",
         "price": 117
       },
       {
+        "date": "2022-07",
+        "price": 109
+      },
+      {
+        "date": "2023-01",
+        "price": 105
+      },
+      {
+        "date": "2023-07",
+        "price": 110
+      },
+      {
+        "date": "2024-01",
+        "price": 114
+      },
+      {
+        "date": "2024-07",
+        "price": 118
+      },
+      {
         "date": "2025-01",
-        "price": 115
+        "price": 116
       },
       {
         "date": "2025-07",
-        "price": 129
+        "price": 119
       },
       {
         "date": "2026-01",
-        "price": 123
+        "price": 110
       },
       {
         "date": "2026-07",
@@ -5258,24 +6434,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 548
+      },
+      {
+        "date": "2022-07",
+        "price": 574
+      },
+      {
+        "date": "2023-01",
+        "price": 631
+      },
+      {
+        "date": "2023-07",
+        "price": 634
+      },
+      {
         "date": "2024-01",
-        "price": 673
+        "price": 681
       },
       {
         "date": "2024-07",
-        "price": 696
+        "price": 718
       },
       {
         "date": "2025-01",
-        "price": 728
+        "price": 703
       },
       {
         "date": "2025-07",
-        "price": 762
+        "price": 768
       },
       {
         "date": "2026-01",
-        "price": 790
+        "price": 792
       },
       {
         "date": "2026-07",
@@ -5322,24 +6514,36 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 136
+        "date": "2022-07",
+        "price": 141
       },
       {
-        "date": "2024-07",
+        "date": "2023-01",
+        "price": 133
+      },
+      {
+        "date": "2023-07",
         "price": 134
       },
       {
+        "date": "2024-01",
+        "price": 126
+      },
+      {
+        "date": "2024-07",
+        "price": 140
+      },
+      {
         "date": "2025-01",
-        "price": 148
+        "price": 133
       },
       {
         "date": "2025-07",
-        "price": 138
+        "price": 136
       },
       {
         "date": "2026-01",
-        "price": 150
+        "price": 129
       },
       {
         "date": "2026-07",
@@ -5386,24 +6590,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 585
+      },
+      {
+        "date": "2023-01",
+        "price": 614
+      },
+      {
+        "date": "2023-07",
+        "price": 591
+      },
+      {
         "date": "2024-01",
-        "price": 664
+        "price": 656
       },
       {
         "date": "2024-07",
-        "price": 701
+        "price": 673
       },
       {
         "date": "2025-01",
-        "price": 745
+        "price": 733
       },
       {
         "date": "2025-07",
-        "price": 767
+        "price": 757
       },
       {
         "date": "2026-01",
-        "price": 806
+        "price": 781
       },
       {
         "date": "2026-07",
@@ -5450,24 +6666,36 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 158
-      },
-      {
-        "date": "2024-07",
+        "date": "2022-07",
         "price": 148
       },
       {
+        "date": "2023-01",
+        "price": 154
+      },
+      {
+        "date": "2023-07",
+        "price": 143
+      },
+      {
+        "date": "2024-01",
+        "price": 142
+      },
+      {
+        "date": "2024-07",
+        "price": 154
+      },
+      {
         "date": "2025-01",
-        "price": 144
+        "price": 151
       },
       {
         "date": "2025-07",
-        "price": 165
+        "price": 151
       },
       {
         "date": "2026-01",
-        "price": 145
+        "price": 162
       },
       {
         "date": "2026-07",
@@ -5514,24 +6742,36 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 147
+      },
+      {
+        "date": "2023-01",
+        "price": 144
+      },
+      {
+        "date": "2023-07",
+        "price": 145
+      },
+      {
         "date": "2024-01",
-        "price": 169
+        "price": 156
       },
       {
         "date": "2024-07",
-        "price": 164
+        "price": 146
       },
       {
         "date": "2025-01",
-        "price": 167
-      },
-      {
-        "date": "2025-07",
         "price": 150
       },
       {
+        "date": "2025-07",
+        "price": 140
+      },
+      {
         "date": "2026-01",
-        "price": 163
+        "price": 155
       },
       {
         "date": "2026-07",
@@ -5578,12 +6818,24 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
+        "date": "2022-07",
         "price": 179
       },
       {
+        "date": "2023-01",
+        "price": 181
+      },
+      {
+        "date": "2023-07",
+        "price": 177
+      },
+      {
+        "date": "2024-01",
+        "price": 177
+      },
+      {
         "date": "2024-07",
-        "price": 156
+        "price": 159
       },
       {
         "date": "2025-01",
@@ -5591,11 +6843,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 175
+        "price": 169
       },
       {
         "date": "2026-01",
-        "price": 179
+        "price": 168
       },
       {
         "date": "2026-07",
@@ -5642,24 +6894,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 535
+      },
+      {
+        "date": "2023-01",
+        "price": 615
+      },
+      {
+        "date": "2023-07",
+        "price": 647
+      },
+      {
         "date": "2024-01",
-        "price": 655
+        "price": 651
       },
       {
         "date": "2024-07",
-        "price": 697
+        "price": 693
       },
       {
         "date": "2025-01",
-        "price": 717
+        "price": 702
       },
       {
         "date": "2025-07",
-        "price": 752
+        "price": 736
       },
       {
         "date": "2026-01",
-        "price": 775
+        "price": 784
       },
       {
         "date": "2026-07",
@@ -5706,24 +6970,48 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-01",
+        "price": 582
+      },
+      {
+        "date": "2021-07",
+        "price": 532
+      },
+      {
+        "date": "2022-01",
+        "price": 618
+      },
+      {
+        "date": "2022-07",
+        "price": 661
+      },
+      {
+        "date": "2023-01",
+        "price": 812
+      },
+      {
+        "date": "2023-07",
+        "price": 828
+      },
+      {
         "date": "2024-01",
-        "price": 903
+        "price": 888
       },
       {
         "date": "2024-07",
-        "price": 917
+        "price": 903
       },
       {
         "date": "2025-01",
-        "price": 957
+        "price": 908
       },
       {
         "date": "2025-07",
-        "price": 1002
+        "price": 972
       },
       {
         "date": "2026-01",
-        "price": 1036
+        "price": 1027
       },
       {
         "date": "2026-07",
@@ -5770,24 +7058,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 540
+      },
+      {
+        "date": "2023-07",
+        "price": 584
+      },
+      {
         "date": "2024-01",
-        "price": 632
+        "price": 594
       },
       {
         "date": "2024-07",
-        "price": 649
+        "price": 614
       },
       {
         "date": "2025-01",
-        "price": 670
+        "price": 665
       },
       {
         "date": "2025-07",
-        "price": 689
+        "price": 706
       },
       {
         "date": "2026-01",
-        "price": 738
+        "price": 726
       },
       {
         "date": "2026-07",
@@ -5834,24 +7130,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 504
+      },
+      {
+        "date": "2023-07",
+        "price": 525
+      },
+      {
         "date": "2024-01",
-        "price": 583
+        "price": 559
       },
       {
         "date": "2024-07",
-        "price": 628
+        "price": 600
       },
       {
         "date": "2025-01",
-        "price": 641
+        "price": 632
       },
       {
         "date": "2025-07",
-        "price": 680
+        "price": 645
       },
       {
         "date": "2026-01",
-        "price": 696
+        "price": 682
       },
       {
         "date": "2026-07",
@@ -5898,24 +7202,52 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 144
+      },
+      {
+        "date": "2021-01",
+        "price": 148
+      },
+      {
+        "date": "2021-07",
+        "price": 146
+      },
+      {
+        "date": "2022-01",
+        "price": 146
+      },
+      {
+        "date": "2022-07",
+        "price": 143
+      },
+      {
+        "date": "2023-01",
+        "price": 132
+      },
+      {
+        "date": "2023-07",
+        "price": 136
+      },
+      {
         "date": "2024-01",
         "price": 132
       },
       {
         "date": "2024-07",
-        "price": 159
+        "price": 142
       },
       {
         "date": "2025-01",
-        "price": 156
+        "price": 145
       },
       {
         "date": "2025-07",
-        "price": 149
+        "price": 134
       },
       {
         "date": "2026-01",
-        "price": 148
+        "price": 146
       },
       {
         "date": "2026-07",
@@ -5962,24 +7294,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 157
-      },
-      {
         "date": "2024-07",
-        "price": 162
+        "price": 167
       },
       {
         "date": "2025-01",
-        "price": 166
+        "price": 163
       },
       {
         "date": "2025-07",
-        "price": 143
+        "price": 173
       },
       {
         "date": "2026-01",
-        "price": 162
+        "price": 174
       },
       {
         "date": "2026-07",
@@ -6026,24 +7354,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 124
-      },
-      {
         "date": "2024-07",
-        "price": 152
+        "price": 147
       },
       {
         "date": "2025-01",
-        "price": 127
+        "price": 146
       },
       {
         "date": "2025-07",
-        "price": 145
+        "price": 142
       },
       {
         "date": "2026-01",
-        "price": 136
+        "price": 149
       },
       {
         "date": "2026-07",
@@ -6090,24 +7414,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 488
-      },
-      {
         "date": "2024-07",
-        "price": 498
+        "price": 528
       },
       {
         "date": "2025-01",
-        "price": 510
-      },
-      {
-        "date": "2025-07",
         "price": 529
       },
       {
+        "date": "2025-07",
+        "price": 556
+      },
+      {
         "date": "2026-01",
-        "price": 575
+        "price": 581
       },
       {
         "date": "2026-07",
@@ -6154,24 +7474,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 433
-      },
-      {
         "date": "2024-07",
-        "price": 455
+        "price": 497
       },
       {
         "date": "2025-01",
-        "price": 485
+        "price": 522
       },
       {
         "date": "2025-07",
-        "price": 530
+        "price": 541
       },
       {
         "date": "2026-01",
-        "price": 578
+        "price": 568
       },
       {
         "date": "2026-07",
@@ -6218,24 +7534,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 455
+      },
+      {
+        "date": "2021-01",
+        "price": 455
+      },
+      {
+        "date": "2021-07",
+        "price": 457
+      },
+      {
+        "date": "2022-01",
+        "price": 560
+      },
+      {
+        "date": "2022-07",
+        "price": 642
+      },
+      {
+        "date": "2023-01",
+        "price": 718
+      },
+      {
+        "date": "2023-07",
+        "price": 650
+      },
+      {
         "date": "2024-01",
-        "price": 758
+        "price": 725
       },
       {
         "date": "2024-07",
-        "price": 805
+        "price": 776
       },
       {
         "date": "2025-01",
-        "price": 850
+        "price": 811
       },
       {
         "date": "2025-07",
-        "price": 865
+        "price": 842
       },
       {
         "date": "2026-01",
-        "price": 876
+        "price": 868
       },
       {
         "date": "2026-07",
@@ -6282,24 +7626,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 446
+      },
+      {
+        "date": "2021-01",
+        "price": 487
+      },
+      {
+        "date": "2021-07",
+        "price": 524
+      },
+      {
+        "date": "2022-01",
+        "price": 622
+      },
+      {
+        "date": "2022-07",
+        "price": 557
+      },
+      {
+        "date": "2023-01",
+        "price": 630
+      },
+      {
+        "date": "2023-07",
+        "price": 724
+      },
+      {
         "date": "2024-01",
-        "price": 751
+        "price": 713
       },
       {
         "date": "2024-07",
-        "price": 767
+        "price": 725
       },
       {
         "date": "2025-01",
-        "price": 813
+        "price": 811
       },
       {
         "date": "2025-07",
-        "price": 842
+        "price": 821
       },
       {
         "date": "2026-01",
-        "price": 853
+        "price": 864
       },
       {
         "date": "2026-07",
@@ -6346,24 +7718,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 623
+      },
+      {
+        "date": "2022-01",
+        "price": 571
+      },
+      {
+        "date": "2022-07",
+        "price": 600
+      },
+      {
+        "date": "2023-01",
+        "price": 688
+      },
+      {
+        "date": "2023-07",
+        "price": 726
+      },
+      {
         "date": "2024-01",
-        "price": 722
+        "price": 739
       },
       {
         "date": "2024-07",
-        "price": 765
+        "price": 808
       },
       {
         "date": "2025-01",
-        "price": 804
+        "price": 809
       },
       {
         "date": "2025-07",
-        "price": 847
+        "price": 833
       },
       {
         "date": "2026-01",
-        "price": 891
+        "price": 896
       },
       {
         "date": "2026-07",
@@ -6410,24 +7802,44 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2021-07",
+        "price": 519
+      },
+      {
+        "date": "2022-01",
+        "price": 530
+      },
+      {
+        "date": "2022-07",
+        "price": 582
+      },
+      {
+        "date": "2023-01",
+        "price": 569
+      },
+      {
+        "date": "2023-07",
+        "price": 574
+      },
+      {
         "date": "2024-01",
-        "price": 698
+        "price": 635
       },
       {
         "date": "2024-07",
-        "price": 726
+        "price": 706
       },
       {
         "date": "2025-01",
-        "price": 742
+        "price": 735
       },
       {
         "date": "2025-07",
-        "price": 760
+        "price": 739
       },
       {
         "date": "2026-01",
-        "price": 775
+        "price": 789
       },
       {
         "date": "2026-07",
@@ -6474,24 +7886,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 459
+      },
+      {
+        "date": "2023-01",
+        "price": 496
+      },
+      {
+        "date": "2023-07",
+        "price": 539
+      },
+      {
         "date": "2024-01",
-        "price": 645
+        "price": 568
       },
       {
         "date": "2024-07",
-        "price": 662
+        "price": 632
       },
       {
         "date": "2025-01",
-        "price": 685
+        "price": 655
       },
       {
         "date": "2025-07",
-        "price": 702
+        "price": 683
       },
       {
         "date": "2026-01",
-        "price": 724
+        "price": 715
       },
       {
         "date": "2026-07",
@@ -6538,24 +7962,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 448
+      },
+      {
+        "date": "2023-01",
+        "price": 471
+      },
+      {
+        "date": "2023-07",
+        "price": 478
+      },
+      {
         "date": "2024-01",
-        "price": 516
+        "price": 495
       },
       {
         "date": "2024-07",
-        "price": 541
+        "price": 547
       },
       {
         "date": "2025-01",
-        "price": 577
+        "price": 574
       },
       {
         "date": "2025-07",
-        "price": 601
+        "price": 612
       },
       {
         "date": "2026-01",
-        "price": 644
+        "price": 632
       },
       {
         "date": "2026-07",
@@ -6602,24 +8038,36 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 153
+      },
+      {
+        "date": "2023-01",
+        "price": 158
+      },
+      {
+        "date": "2023-07",
+        "price": 164
+      },
+      {
         "date": "2024-01",
-        "price": 146
+        "price": 158
       },
       {
         "date": "2024-07",
-        "price": 152
+        "price": 158
       },
       {
         "date": "2025-01",
-        "price": 130
+        "price": 163
       },
       {
         "date": "2025-07",
-        "price": 143
+        "price": 156
       },
       {
         "date": "2026-01",
-        "price": 150
+        "price": 164
       },
       {
         "date": "2026-07",
@@ -6666,24 +8114,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 492
+      },
+      {
+        "date": "2023-07",
+        "price": 611
+      },
+      {
         "date": "2024-01",
-        "price": 654
+        "price": 622
       },
       {
         "date": "2024-07",
-        "price": 669
+        "price": 657
       },
       {
         "date": "2025-01",
-        "price": 706
+        "price": 669
       },
       {
         "date": "2025-07",
-        "price": 728
+        "price": 689
       },
       {
         "date": "2026-01",
-        "price": 740
+        "price": 720
       },
       {
         "date": "2026-07",
@@ -6730,24 +8186,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 155
+      },
+      {
+        "date": "2023-07",
+        "price": 158
+      },
+      {
         "date": "2024-01",
-        "price": 172
-      },
-      {
-        "date": "2024-07",
-        "price": 175
-      },
-      {
-        "date": "2025-01",
-        "price": 175
-      },
-      {
-        "date": "2025-07",
         "price": 156
       },
       {
+        "date": "2024-07",
+        "price": 150
+      },
+      {
+        "date": "2025-01",
+        "price": 156
+      },
+      {
+        "date": "2025-07",
+        "price": 164
+      },
+      {
         "date": "2026-01",
-        "price": 160
+        "price": 150
       },
       {
         "date": "2026-07",
@@ -6794,24 +8258,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 127
+        "date": "2023-01",
+        "price": 145
       },
       {
-        "date": "2024-07",
+        "date": "2023-07",
         "price": 131
       },
       {
+        "date": "2024-01",
+        "price": 141
+      },
+      {
+        "date": "2024-07",
+        "price": 138
+      },
+      {
         "date": "2025-01",
-        "price": 125
+        "price": 144
       },
       {
         "date": "2025-07",
-        "price": 147
+        "price": 129
       },
       {
         "date": "2026-01",
-        "price": 146
+        "price": 141
       },
       {
         "date": "2026-07",
@@ -6859,23 +8331,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 561
+        "price": 569
       },
       {
         "date": "2024-07",
-        "price": 578
+        "price": 598
       },
       {
         "date": "2025-01",
-        "price": 610
+        "price": 594
       },
       {
         "date": "2025-07",
-        "price": 646
+        "price": 640
       },
       {
         "date": "2026-01",
-        "price": 677
+        "price": 668
       },
       {
         "date": "2026-07",
@@ -6923,23 +8395,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 143
+        "price": 124
       },
       {
         "date": "2024-07",
-        "price": 140
+        "price": 129
       },
       {
         "date": "2025-01",
-        "price": 141
+        "price": 129
       },
       {
         "date": "2025-07",
-        "price": 142
+        "price": 124
       },
       {
         "date": "2026-01",
-        "price": 142
+        "price": 135
       },
       {
         "date": "2026-07",
@@ -6987,23 +8459,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 128
+        "price": 121
       },
       {
         "date": "2024-07",
-        "price": 154
+        "price": 132
       },
       {
         "date": "2025-01",
-        "price": 135
+        "price": 132
       },
       {
         "date": "2025-07",
-        "price": 149
+        "price": 126
       },
       {
         "date": "2026-01",
-        "price": 146
+        "price": 127
       },
       {
         "date": "2026-07",
@@ -7051,23 +8523,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 128
+        "price": 111
       },
       {
         "date": "2024-07",
-        "price": 105
+        "price": 116
       },
       {
         "date": "2025-01",
-        "price": 106
+        "price": 116
       },
       {
         "date": "2025-07",
-        "price": 106
+        "price": 108
       },
       {
         "date": "2026-01",
-        "price": 127
+        "price": 108
       },
       {
         "date": "2026-07",
@@ -7115,23 +8587,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 143
+        "price": 138
       },
       {
         "date": "2024-07",
-        "price": 123
+        "price": 141
       },
       {
         "date": "2025-01",
-        "price": 122
+        "price": 132
       },
       {
         "date": "2025-07",
-        "price": 136
+        "price": 127
       },
       {
         "date": "2026-01",
-        "price": 140
+        "price": 125
       },
       {
         "date": "2026-07",
@@ -7179,23 +8651,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 134
+        "price": 131
       },
       {
         "date": "2024-07",
-        "price": 151
+        "price": 129
       },
       {
         "date": "2025-01",
-        "price": 140
+        "price": 143
       },
       {
         "date": "2025-07",
-        "price": 161
+        "price": 144
       },
       {
         "date": "2026-01",
-        "price": 141
+        "price": 132
       },
       {
         "date": "2026-07",
@@ -7243,23 +8715,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 588
+        "price": 565
       },
       {
         "date": "2024-07",
-        "price": 622
+        "price": 628
       },
       {
         "date": "2025-01",
-        "price": 632
+        "price": 639
       },
       {
         "date": "2025-07",
-        "price": 643
+        "price": 679
       },
       {
         "date": "2026-01",
-        "price": 685
+        "price": 692
       },
       {
         "date": "2026-07",
@@ -7306,24 +8778,40 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 165
+      },
+      {
+        "date": "2022-07",
+        "price": 164
+      },
+      {
+        "date": "2023-01",
+        "price": 158
+      },
+      {
+        "date": "2023-07",
+        "price": 155
+      },
+      {
         "date": "2024-01",
-        "price": 134
+        "price": 150
       },
       {
         "date": "2024-07",
-        "price": 148
+        "price": 164
       },
       {
         "date": "2025-01",
-        "price": 153
+        "price": 150
       },
       {
         "date": "2025-07",
-        "price": 137
+        "price": 162
       },
       {
         "date": "2026-01",
-        "price": 155
+        "price": 166
       },
       {
         "date": "2026-07",
@@ -7370,12 +8858,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 584
+      },
+      {
+        "date": "2022-07",
+        "price": 635
+      },
+      {
+        "date": "2023-01",
+        "price": 632
+      },
+      {
+        "date": "2023-07",
+        "price": 635
+      },
+      {
         "date": "2024-01",
-        "price": 692
+        "price": 702
       },
       {
         "date": "2024-07",
-        "price": 739
+        "price": 738
       },
       {
         "date": "2025-01",
@@ -7383,11 +8887,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 791
+        "price": 780
       },
       {
         "date": "2026-01",
-        "price": 826
+        "price": 808
       },
       {
         "date": "2026-07",
@@ -7434,16 +8938,12 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 442
-      },
-      {
         "date": "2024-07",
-        "price": 486
+        "price": 550
       },
       {
         "date": "2025-01",
-        "price": 530
+        "price": 577
       },
       {
         "date": "2025-07",
@@ -7451,7 +8951,7 @@ export const tomicaData = [
       },
       {
         "date": "2026-01",
-        "price": 588
+        "price": 613
       },
       {
         "date": "2026-07",
@@ -7498,24 +8998,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 322
-      },
-      {
         "date": "2024-07",
-        "price": 360
+        "price": 418
       },
       {
         "date": "2025-01",
-        "price": 404
+        "price": 446
       },
       {
         "date": "2025-07",
-        "price": 423
+        "price": 454
       },
       {
         "date": "2026-01",
-        "price": 466
+        "price": 473
       },
       {
         "date": "2026-07",
@@ -7562,24 +9058,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 425
-      },
-      {
         "date": "2024-07",
-        "price": 441
+        "price": 470
       },
       {
         "date": "2025-01",
-        "price": 468
-      },
-      {
-        "date": "2025-07",
         "price": 482
       },
       {
+        "date": "2025-07",
+        "price": 502
+      },
+      {
         "date": "2026-01",
-        "price": 506
+        "price": 526
       },
       {
         "date": "2026-07",
@@ -7626,24 +9118,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 155
-      },
-      {
         "date": "2024-07",
-        "price": 159
+        "price": 165
       },
       {
         "date": "2025-01",
-        "price": 174
+        "price": 161
       },
       {
         "date": "2025-07",
-        "price": 150
+        "price": 172
       },
       {
         "date": "2026-01",
-        "price": 173
+        "price": 163
       },
       {
         "date": "2026-07",
@@ -7690,24 +9178,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 460
-      },
-      {
         "date": "2024-07",
-        "price": 505
+        "price": 487
       },
       {
         "date": "2025-01",
-        "price": 520
+        "price": 544
       },
       {
         "date": "2025-07",
-        "price": 551
+        "price": 561
       },
       {
         "date": "2026-01",
-        "price": 570
+        "price": 577
       },
       {
         "date": "2026-07",
@@ -7754,24 +9238,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 147
-      },
-      {
         "date": "2024-07",
-        "price": 153
+        "price": 150
       },
       {
         "date": "2025-01",
-        "price": 136
+        "price": 139
       },
       {
         "date": "2025-07",
-        "price": 127
+        "price": 138
       },
       {
         "date": "2026-01",
-        "price": 152
+        "price": 147
       },
       {
         "date": "2026-07",
@@ -7818,24 +9298,32 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 137
+      },
+      {
+        "date": "2023-07",
+        "price": 150
+      },
+      {
         "date": "2024-01",
-        "price": 132
+        "price": 130
       },
       {
         "date": "2024-07",
-        "price": 132
+        "price": 150
       },
       {
         "date": "2025-01",
-        "price": 139
+        "price": 135
       },
       {
         "date": "2025-07",
-        "price": 126
+        "price": 146
       },
       {
         "date": "2026-01",
-        "price": 150
+        "price": 138
       },
       {
         "date": "2026-07",
@@ -7882,24 +9370,32 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-01",
+        "price": 508
+      },
+      {
+        "date": "2023-07",
+        "price": 601
+      },
+      {
         "date": "2024-01",
-        "price": 583
+        "price": 601
       },
       {
         "date": "2024-07",
-        "price": 607
+        "price": 669
       },
       {
         "date": "2025-01",
-        "price": 638
+        "price": 677
       },
       {
         "date": "2025-07",
-        "price": 684
+        "price": 714
       },
       {
         "date": "2026-01",
-        "price": 728
+        "price": 727
       },
       {
         "date": "2026-07",
@@ -7946,24 +9442,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 170
+      },
+      {
         "date": "2024-01",
-        "price": 159
+        "price": 162
       },
       {
         "date": "2024-07",
-        "price": 160
+        "price": 181
       },
       {
         "date": "2025-01",
-        "price": 163
+        "price": 176
       },
       {
         "date": "2025-07",
-        "price": 161
+        "price": 175
       },
       {
         "date": "2026-01",
-        "price": 167
+        "price": 184
       },
       {
         "date": "2026-07",
@@ -8010,24 +9510,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 505
+      },
+      {
         "date": "2024-01",
-        "price": 494
+        "price": 493
       },
       {
         "date": "2024-07",
-        "price": 531
+        "price": 523
       },
       {
         "date": "2025-01",
-        "price": 573
+        "price": 568
       },
       {
         "date": "2025-07",
-        "price": 586
+        "price": 581
       },
       {
         "date": "2026-01",
-        "price": 597
+        "price": 604
       },
       {
         "date": "2026-07",
@@ -8074,24 +9578,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 104
+      },
+      {
         "date": "2024-01",
-        "price": 123
+        "price": 108
       },
       {
         "date": "2024-07",
-        "price": 122
+        "price": 107
       },
       {
         "date": "2025-01",
-        "price": 126
+        "price": 102
       },
       {
         "date": "2025-07",
-        "price": 135
+        "price": 107
       },
       {
         "date": "2026-01",
-        "price": 125
+        "price": 118
       },
       {
         "date": "2026-07",
@@ -8139,23 +9647,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 645
+        "price": 594
       },
       {
         "date": "2024-07",
-        "price": 668
+        "price": 662
       },
       {
         "date": "2025-01",
-        "price": 691
+        "price": 701
       },
       {
         "date": "2025-07",
-        "price": 728
+        "price": 706
       },
       {
         "date": "2026-01",
-        "price": 761
+        "price": 746
       },
       {
         "date": "2026-07",
@@ -8203,11 +9711,11 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 483
+        "price": 487
       },
       {
         "date": "2024-07",
-        "price": 527
+        "price": 518
       },
       {
         "date": "2025-01",
@@ -8215,11 +9723,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 592
+        "price": 574
       },
       {
         "date": "2026-01",
-        "price": 602
+        "price": 595
       },
       {
         "date": "2026-07",
@@ -8267,7 +9775,7 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 141
+        "price": 118
       },
       {
         "date": "2024-07",
@@ -8275,15 +9783,15 @@ export const tomicaData = [
       },
       {
         "date": "2025-01",
-        "price": 126
+        "price": 123
       },
       {
         "date": "2025-07",
-        "price": 134
+        "price": 113
       },
       {
         "date": "2026-01",
-        "price": 130
+        "price": 119
       },
       {
         "date": "2026-07",
@@ -8331,23 +9839,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 112
+        "price": 111
       },
       {
         "date": "2024-07",
-        "price": 134
+        "price": 114
       },
       {
         "date": "2025-01",
-        "price": 108
+        "price": 116
       },
       {
         "date": "2025-07",
-        "price": 127
+        "price": 108
       },
       {
         "date": "2026-01",
-        "price": 129
+        "price": 117
       },
       {
         "date": "2026-07",
@@ -8395,23 +9903,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 557
+        "price": 538
       },
       {
         "date": "2024-07",
-        "price": 569
+        "price": 575
       },
       {
         "date": "2025-01",
-        "price": 618
+        "price": 628
       },
       {
         "date": "2025-07",
-        "price": 638
+        "price": 647
       },
       {
         "date": "2026-01",
-        "price": 657
+        "price": 675
       },
       {
         "date": "2026-07",
@@ -8459,23 +9967,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 579
+        "price": 632
       },
       {
         "date": "2024-07",
-        "price": 627
+        "price": 629
       },
       {
         "date": "2025-01",
-        "price": 666
+        "price": 702
       },
       {
         "date": "2025-07",
-        "price": 686
+        "price": 713
       },
       {
         "date": "2026-01",
-        "price": 731
+        "price": 744
       },
       {
         "date": "2026-07",
@@ -8523,23 +10031,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 107
+        "price": 121
       },
       {
         "date": "2024-07",
-        "price": 107
-      },
-      {
-        "date": "2025-01",
         "price": 113
       },
       {
+        "date": "2025-01",
+        "price": 110
+      },
+      {
         "date": "2025-07",
-        "price": 114
+        "price": 117
       },
       {
         "date": "2026-01",
-        "price": 130
+        "price": 113
       },
       {
         "date": "2026-07",
@@ -8587,11 +10095,11 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 141
+        "price": 138
       },
       {
         "date": "2024-07",
-        "price": 142
+        "price": 145
       },
       {
         "date": "2025-01",
@@ -8599,11 +10107,11 @@ export const tomicaData = [
       },
       {
         "date": "2025-07",
-        "price": 135
+        "price": 134
       },
       {
         "date": "2026-01",
-        "price": 139
+        "price": 133
       },
       {
         "date": "2026-07",
@@ -8651,19 +10159,19 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 126
+        "price": 115
       },
       {
         "date": "2024-07",
-        "price": 130
+        "price": 120
       },
       {
         "date": "2025-01",
-        "price": 130
+        "price": 118
       },
       {
         "date": "2025-07",
-        "price": 127
+        "price": 123
       },
       {
         "date": "2026-01",
@@ -8714,16 +10222,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 505
+      },
+      {
+        "date": "2023-01",
+        "price": 550
+      },
+      {
+        "date": "2023-07",
+        "price": 627
+      },
+      {
         "date": "2024-01",
-        "price": 679
+        "price": 683
       },
       {
         "date": "2024-07",
-        "price": 697
+        "price": 683
       },
       {
         "date": "2025-01",
-        "price": 740
+        "price": 736
       },
       {
         "date": "2025-07",
@@ -8731,7 +10251,7 @@ export const tomicaData = [
       },
       {
         "date": "2026-01",
-        "price": 800
+        "price": 793
       },
       {
         "date": "2026-07",
@@ -8778,24 +10298,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 493
+      },
+      {
+        "date": "2023-01",
+        "price": 473
+      },
+      {
+        "date": "2023-07",
+        "price": 556
+      },
+      {
         "date": "2024-01",
-        "price": 565
+        "price": 535
       },
       {
         "date": "2024-07",
-        "price": 589
+        "price": 608
       },
       {
         "date": "2025-01",
-        "price": 620
+        "price": 609
       },
       {
         "date": "2025-07",
-        "price": 646
+        "price": 652
       },
       {
         "date": "2026-01",
-        "price": 660
+        "price": 670
       },
       {
         "date": "2026-07",
@@ -8842,24 +10374,36 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-07",
+        "price": 467
+      },
+      {
+        "date": "2023-01",
+        "price": 568
+      },
+      {
+        "date": "2023-07",
+        "price": 569
+      },
+      {
         "date": "2024-01",
-        "price": 583
+        "price": 581
       },
       {
         "date": "2024-07",
-        "price": 616
+        "price": 592
       },
       {
         "date": "2025-01",
-        "price": 653
+        "price": 664
       },
       {
         "date": "2025-07",
-        "price": 673
+        "price": 668
       },
       {
         "date": "2026-01",
-        "price": 693
+        "price": 701
       },
       {
         "date": "2026-07",
@@ -8906,24 +10450,28 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 161
+      },
+      {
         "date": "2024-01",
-        "price": 159
+        "price": 158
       },
       {
         "date": "2024-07",
-        "price": 152
+        "price": 159
       },
       {
         "date": "2025-01",
-        "price": 150
+        "price": 162
       },
       {
         "date": "2025-07",
-        "price": 154
+        "price": 160
       },
       {
         "date": "2026-01",
-        "price": 146
+        "price": 144
       },
       {
         "date": "2026-07",
@@ -8970,24 +10518,28 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2023-07",
+        "price": 503
+      },
+      {
         "date": "2024-01",
-        "price": 549
+        "price": 557
       },
       {
         "date": "2024-07",
-        "price": 595
+        "price": 584
       },
       {
         "date": "2025-01",
-        "price": 624
+        "price": 622
       },
       {
         "date": "2025-07",
-        "price": 673
+        "price": 655
       },
       {
         "date": "2026-01",
-        "price": 693
+        "price": 674
       },
       {
         "date": "2026-07",
@@ -9034,24 +10586,16 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 523
-      },
-      {
-        "date": "2024-07",
-        "price": 560
-      },
-      {
         "date": "2025-01",
-        "price": 572
+        "price": 599
       },
       {
         "date": "2025-07",
-        "price": 601
+        "price": 607
       },
       {
         "date": "2026-01",
-        "price": 640
+        "price": 648
       },
       {
         "date": "2026-07",
@@ -9098,24 +10642,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 162
-      },
-      {
-        "date": "2024-07",
-        "price": 155
-      },
-      {
         "date": "2025-01",
-        "price": 150
+        "price": 166
       },
       {
         "date": "2025-07",
-        "price": 170
+        "price": 167
       },
       {
         "date": "2026-01",
-        "price": 169
+        "price": 167
       },
       {
         "date": "2026-07",
@@ -9162,24 +10698,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 348
-      },
-      {
         "date": "2024-07",
-        "price": 364
+        "price": 375
       },
       {
         "date": "2025-01",
-        "price": 385
+        "price": 411
       },
       {
         "date": "2025-07",
-        "price": 424
+        "price": 418
       },
       {
         "date": "2026-01",
-        "price": 435
+        "price": 436
       },
       {
         "date": "2026-07",
@@ -9226,24 +10758,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 461
-      },
-      {
         "date": "2024-07",
-        "price": 508
-      },
-      {
-        "date": "2025-01",
         "price": 556
       },
       {
+        "date": "2025-01",
+        "price": 568
+      },
+      {
         "date": "2025-07",
-        "price": 589
+        "price": 608
       },
       {
         "date": "2026-01",
-        "price": 621
+        "price": 636
       },
       {
         "date": "2026-07",
@@ -9290,24 +10818,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 158
-      },
-      {
-        "date": "2024-07",
-        "price": 147
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
-        "date": "2025-07",
-        "price": 146
-      },
-      {
-        "date": "2026-01",
-        "price": 144
+        "date": "2026-02",
+        "price": 143
       },
       {
         "date": "2026-07",
@@ -9354,24 +10866,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 138
-      },
-      {
-        "date": "2024-07",
-        "price": 122
-      },
-      {
-        "date": "2025-01",
-        "price": 142
-      },
-      {
-        "date": "2025-07",
-        "price": 126
-      },
-      {
-        "date": "2026-01",
-        "price": 143
+        "date": "2026-02",
+        "price": 128
       },
       {
         "date": "2026-07",
@@ -9418,24 +10914,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 136
-      },
-      {
-        "date": "2024-07",
-        "price": 118
-      },
-      {
-        "date": "2025-01",
-        "price": 120
-      },
-      {
-        "date": "2025-07",
-        "price": 130
-      },
-      {
-        "date": "2026-01",
-        "price": 117
+        "date": "2026-02",
+        "price": 122
       },
       {
         "date": "2026-07",
@@ -9482,24 +10962,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 143
-      },
-      {
-        "date": "2024-07",
-        "price": 170
-      },
-      {
         "date": "2025-01",
-        "price": 164
+        "price": 154
       },
       {
         "date": "2025-07",
-        "price": 161
+        "price": 156
       },
       {
         "date": "2026-01",
-        "price": 143
+        "price": 140
       },
       {
         "date": "2026-07",
@@ -9546,24 +11018,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 155
-      },
-      {
-        "date": "2024-07",
-        "price": 166
-      },
-      {
         "date": "2025-01",
-        "price": 159
+        "price": 143
       },
       {
         "date": "2025-07",
-        "price": 148
+        "price": 141
       },
       {
         "date": "2026-01",
-        "price": 141
+        "price": 143
       },
       {
         "date": "2026-07",
@@ -9610,24 +11074,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 152
-      },
-      {
-        "date": "2024-07",
-        "price": 170
-      },
-      {
-        "date": "2025-01",
-        "price": 160
-      },
-      {
-        "date": "2025-07",
-        "price": 147
-      },
-      {
-        "date": "2026-01",
-        "price": 167
+        "date": "2026-05",
+        "price": 144
       },
       {
         "date": "2026-07",
@@ -9674,24 +11122,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
+        "date": "2026-05",
         "price": 149
-      },
-      {
-        "date": "2024-07",
-        "price": 130
-      },
-      {
-        "date": "2025-01",
-        "price": 148
-      },
-      {
-        "date": "2025-07",
-        "price": 153
-      },
-      {
-        "date": "2026-01",
-        "price": 146
       },
       {
         "date": "2026-07",
@@ -9738,24 +11170,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 121
-      },
-      {
-        "date": "2024-07",
-        "price": 139
-      },
-      {
-        "date": "2025-01",
-        "price": 121
-      },
-      {
-        "date": "2025-07",
-        "price": 112
-      },
-      {
-        "date": "2026-01",
-        "price": 113
+        "date": "2026-05",
+        "price": 116
       },
       {
         "date": "2026-07",
@@ -9802,24 +11218,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 131
-      },
-      {
-        "date": "2024-07",
-        "price": 137
-      },
-      {
-        "date": "2025-01",
-        "price": 120
-      },
-      {
-        "date": "2025-07",
-        "price": 134
-      },
-      {
-        "date": "2026-01",
-        "price": 144
+        "date": "2026-05",
+        "price": 146
       },
       {
         "date": "2026-07",
@@ -9866,24 +11266,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 157
-      },
-      {
-        "date": "2024-07",
-        "price": 144
-      },
-      {
-        "date": "2025-01",
-        "price": 157
-      },
-      {
-        "date": "2025-07",
-        "price": 157
-      },
-      {
-        "date": "2026-01",
-        "price": 153
+        "date": "2026-05",
+        "price": 169
       },
       {
         "date": "2026-07",
@@ -9930,24 +11314,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 430
-      },
-      {
         "date": "2024-07",
-        "price": 451
+        "price": 435
       },
       {
         "date": "2025-01",
-        "price": 483
+        "price": 487
       },
       {
         "date": "2025-07",
-        "price": 494
+        "price": 497
       },
       {
         "date": "2026-01",
-        "price": 507
+        "price": 519
       },
       {
         "date": "2026-07",
@@ -9994,24 +11374,20 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 393
-      },
-      {
         "date": "2024-07",
-        "price": 441
+        "price": 450
       },
       {
         "date": "2025-01",
-        "price": 459
+        "price": 487
       },
       {
         "date": "2025-07",
-        "price": 479
+        "price": 511
       },
       {
         "date": "2026-01",
-        "price": 510
+        "price": 529
       },
       {
         "date": "2026-07",
@@ -10058,24 +11434,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 124
-      },
-      {
         "date": "2024-07",
-        "price": 137
+        "price": 134
       },
       {
         "date": "2025-01",
-        "price": 132
+        "price": 147
       },
       {
         "date": "2025-07",
-        "price": 128
+        "price": 133
       },
       {
         "date": "2026-01",
-        "price": 118
+        "price": 143
       },
       {
         "date": "2026-07",
@@ -10122,24 +11494,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 165
-      },
-      {
         "date": "2024-07",
         "price": 170
       },
       {
         "date": "2025-01",
-        "price": 158
+        "price": 166
       },
       {
         "date": "2025-07",
-        "price": 154
+        "price": 167
       },
       {
         "date": "2026-01",
-        "price": 161
+        "price": 175
       },
       {
         "date": "2026-07",
@@ -10186,24 +11554,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 147
-      },
-      {
         "date": "2024-07",
-        "price": 164
+        "price": 137
       },
       {
         "date": "2025-01",
-        "price": 159
+        "price": 135
       },
       {
         "date": "2025-07",
-        "price": 148
+        "price": 143
       },
       {
         "date": "2026-01",
-        "price": 165
+        "price": 135
       },
       {
         "date": "2026-07",
@@ -10250,24 +11614,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 173
-      },
-      {
         "date": "2024-07",
-        "price": 166
+        "price": 147
       },
       {
         "date": "2025-01",
-        "price": 163
+        "price": 146
       },
       {
         "date": "2025-07",
-        "price": 167
+        "price": 145
       },
       {
         "date": "2026-01",
-        "price": 174
+        "price": 153
       },
       {
         "date": "2026-07",
@@ -10314,24 +11674,20 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 143
-      },
-      {
         "date": "2024-07",
-        "price": 148
+        "price": 125
       },
       {
         "date": "2025-01",
-        "price": 148
+        "price": 134
       },
       {
         "date": "2025-07",
-        "price": 145
+        "price": 135
       },
       {
         "date": "2026-01",
-        "price": 159
+        "price": 134
       },
       {
         "date": "2026-07",
@@ -10378,24 +11734,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 130
-      },
-      {
-        "date": "2024-07",
-        "price": 112
-      },
-      {
-        "date": "2025-01",
-        "price": 120
-      },
-      {
-        "date": "2025-07",
-        "price": 129
-      },
-      {
         "date": "2026-01",
-        "price": 115
+        "price": 136
       },
       {
         "date": "2026-07",
@@ -10442,24 +11782,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 157
-      },
-      {
-        "date": "2024-07",
-        "price": 148
-      },
-      {
-        "date": "2025-01",
-        "price": 143
-      },
-      {
-        "date": "2025-07",
-        "price": 157
-      },
-      {
         "date": "2026-01",
-        "price": 163
+        "price": 146
       },
       {
         "date": "2026-07",
@@ -10506,24 +11830,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 169
-      },
-      {
-        "date": "2024-07",
-        "price": 160
-      },
-      {
-        "date": "2025-01",
-        "price": 158
-      },
-      {
-        "date": "2025-07",
-        "price": 170
-      },
-      {
         "date": "2026-01",
-        "price": 163
+        "price": 157
       },
       {
         "date": "2026-07",
@@ -10570,24 +11878,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 162
-      },
-      {
-        "date": "2024-07",
-        "price": 169
-      },
-      {
-        "date": "2025-01",
-        "price": 171
-      },
-      {
-        "date": "2025-07",
-        "price": 169
-      },
-      {
         "date": "2026-01",
-        "price": 159
+        "price": 149
       },
       {
         "date": "2026-07",
@@ -10634,23 +11926,7 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 133
-      },
-      {
-        "date": "2024-07",
-        "price": 133
-      },
-      {
-        "date": "2025-01",
-        "price": 134
-      },
-      {
-        "date": "2025-07",
-        "price": 127
-      },
-      {
-        "date": "2026-01",
+        "date": "2026-03",
         "price": 128
       },
       {
@@ -10698,24 +11974,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 170
-      },
-      {
-        "date": "2024-07",
-        "price": 153
-      },
-      {
-        "date": "2025-01",
-        "price": 161
-      },
-      {
-        "date": "2025-07",
-        "price": 162
-      },
-      {
-        "date": "2026-01",
-        "price": 179
+        "date": "2026-03",
+        "price": 167
       },
       {
         "date": "2026-07",
@@ -10762,24 +12022,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 110
-      },
-      {
-        "date": "2024-07",
-        "price": 111
-      },
-      {
-        "date": "2025-01",
-        "price": 120
-      },
-      {
-        "date": "2025-07",
-        "price": 123
-      },
-      {
-        "date": "2026-01",
-        "price": 129
+        "date": "2026-03",
+        "price": 112
       },
       {
         "date": "2026-07",
@@ -10826,24 +12070,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 140
-      },
-      {
-        "date": "2024-07",
-        "price": 136
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
-        "date": "2025-07",
-        "price": 151
-      },
-      {
-        "date": "2026-01",
-        "price": 146
+        "date": "2026-03",
+        "price": 156
       },
       {
         "date": "2026-07",
@@ -10891,23 +12119,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 462
+        "price": 515
       },
       {
         "date": "2024-07",
-        "price": 483
+        "price": 532
       },
       {
         "date": "2025-01",
-        "price": 504
+        "price": 551
       },
       {
         "date": "2025-07",
-        "price": 538
+        "price": 579
       },
       {
         "date": "2026-01",
-        "price": 575
+        "price": 601
       },
       {
         "date": "2026-07",
@@ -10955,23 +12183,23 @@ export const tomicaData = [
     "priceHistory": [
       {
         "date": "2024-01",
-        "price": 508
+        "price": 529
       },
       {
         "date": "2024-07",
-        "price": 525
+        "price": 541
       },
       {
         "date": "2025-01",
-        "price": 535
+        "price": 545
       },
       {
         "date": "2025-07",
-        "price": 555
+        "price": 578
       },
       {
         "date": "2026-01",
-        "price": 589
+        "price": 605
       },
       {
         "date": "2026-07",
@@ -11018,24 +12246,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 149
-      },
-      {
-        "date": "2024-07",
-        "price": 141
-      },
-      {
-        "date": "2025-01",
-        "price": 149
-      },
-      {
-        "date": "2025-07",
-        "price": 128
-      },
-      {
         "date": "2026-01",
-        "price": 153
+        "price": 137
       },
       {
         "date": "2026-07",
@@ -11082,24 +12294,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 177
-      },
-      {
-        "date": "2024-07",
-        "price": 156
-      },
-      {
-        "date": "2025-01",
-        "price": 171
-      },
-      {
-        "date": "2025-07",
-        "price": 167
-      },
-      {
         "date": "2026-01",
-        "price": 160
+        "price": 146
       },
       {
         "date": "2026-07",
@@ -11146,24 +12342,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 141
-      },
-      {
-        "date": "2024-07",
-        "price": 129
-      },
-      {
-        "date": "2025-01",
-        "price": 131
-      },
-      {
         "date": "2025-07",
-        "price": 154
+        "price": 140
       },
       {
         "date": "2026-01",
-        "price": 133
+        "price": 125
       },
       {
         "date": "2026-07",
@@ -11210,24 +12394,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 131
-      },
-      {
-        "date": "2024-07",
-        "price": 111
-      },
-      {
-        "date": "2025-01",
-        "price": 111
-      },
-      {
         "date": "2025-07",
-        "price": 110
+        "price": 135
       },
       {
         "date": "2026-01",
-        "price": 110
+        "price": 135
       },
       {
         "date": "2026-07",
@@ -11274,24 +12446,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 137
-      },
-      {
-        "date": "2024-07",
-        "price": 130
-      },
-      {
-        "date": "2025-01",
-        "price": 139
-      },
-      {
         "date": "2025-07",
-        "price": 120
+        "price": 128
       },
       {
         "date": "2026-01",
-        "price": 138
+        "price": 125
       },
       {
         "date": "2026-07",
@@ -11338,24 +12498,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 171
-      },
-      {
-        "date": "2024-07",
-        "price": 168
-      },
-      {
-        "date": "2025-01",
-        "price": 155
-      },
-      {
         "date": "2025-07",
-        "price": 146
+        "price": 158
       },
       {
         "date": "2026-01",
-        "price": 162
+        "price": 166
       },
       {
         "date": "2026-07",
@@ -11402,24 +12550,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 154
-      },
-      {
-        "date": "2024-07",
-        "price": 148
-      },
-      {
-        "date": "2025-01",
-        "price": 152
-      },
-      {
-        "date": "2025-07",
-        "price": 165
-      },
-      {
-        "date": "2026-01",
-        "price": 169
+        "date": "2026-06",
+        "price": 157
       },
       {
         "date": "2026-07",
@@ -11466,24 +12598,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 125
-      },
-      {
-        "date": "2024-07",
-        "price": 146
-      },
-      {
-        "date": "2025-01",
-        "price": 123
-      },
-      {
-        "date": "2025-07",
-        "price": 146
-      },
-      {
-        "date": "2026-01",
-        "price": 141
+        "date": "2026-06",
+        "price": 156
       },
       {
         "date": "2026-07",
@@ -11530,24 +12646,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 168
-      },
-      {
-        "date": "2024-07",
-        "price": 149
-      },
-      {
-        "date": "2025-01",
-        "price": 154
-      },
-      {
-        "date": "2025-07",
-        "price": 152
-      },
-      {
-        "date": "2026-01",
-        "price": 151
+        "date": "2026-06",
+        "price": 155
       },
       {
         "date": "2026-07",
@@ -11594,24 +12694,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 141
-      },
-      {
-        "date": "2024-07",
-        "price": 132
-      },
-      {
-        "date": "2025-01",
-        "price": 136
-      },
-      {
-        "date": "2025-07",
-        "price": 142
-      },
-      {
-        "date": "2026-01",
-        "price": 124
+        "date": "2026-06",
+        "price": 116
       },
       {
         "date": "2026-07",
@@ -11658,24 +12742,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 138
-      },
-      {
-        "date": "2024-07",
-        "price": 160
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
         "date": "2025-07",
-        "price": 137
+        "price": 133
       },
       {
         "date": "2026-01",
-        "price": 136
+        "price": 135
       },
       {
         "date": "2026-07",
@@ -11722,24 +12794,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 122
-      },
-      {
-        "date": "2024-07",
-        "price": 115
-      },
-      {
-        "date": "2025-01",
-        "price": 124
-      },
-      {
         "date": "2025-07",
-        "price": 124
+        "price": 132
       },
       {
         "date": "2026-01",
-        "price": 119
+        "price": 127
       },
       {
         "date": "2026-07",
@@ -11786,24 +12846,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 143
-      },
-      {
-        "date": "2024-07",
-        "price": 135
-      },
-      {
-        "date": "2025-01",
-        "price": 145
-      },
-      {
-        "date": "2025-07",
-        "price": 136
-      },
-      {
         "date": "2026-01",
-        "price": 131
+        "price": 122
       },
       {
         "date": "2026-07",
@@ -11850,24 +12894,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 165
-      },
-      {
-        "date": "2024-07",
-        "price": 151
-      },
-      {
-        "date": "2025-01",
-        "price": 137
-      },
-      {
-        "date": "2025-07",
-        "price": 149
-      },
-      {
         "date": "2026-01",
-        "price": 140
+        "price": 133
       },
       {
         "date": "2026-07",
@@ -11914,24 +12942,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 459
+      },
+      {
+        "date": "2021-01",
+        "price": 459
+      },
+      {
+        "date": "2021-07",
+        "price": 628
+      },
+      {
+        "date": "2022-01",
+        "price": 548
+      },
+      {
+        "date": "2022-07",
+        "price": 589
+      },
+      {
+        "date": "2023-01",
+        "price": 722
+      },
+      {
+        "date": "2023-07",
+        "price": 717
+      },
+      {
         "date": "2024-01",
-        "price": 783
+        "price": 704
       },
       {
         "date": "2024-07",
-        "price": 802
+        "price": 762
       },
       {
         "date": "2025-01",
-        "price": 818
+        "price": 781
       },
       {
         "date": "2025-07",
-        "price": 852
+        "price": 855
       },
       {
         "date": "2026-01",
-        "price": 882
+        "price": 885
       },
       {
         "date": "2026-07",
@@ -11978,24 +13034,52 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2020-07",
+        "price": 533
+      },
+      {
+        "date": "2021-01",
+        "price": 614
+      },
+      {
+        "date": "2021-07",
+        "price": 533
+      },
+      {
+        "date": "2022-01",
+        "price": 617
+      },
+      {
+        "date": "2022-07",
+        "price": 681
+      },
+      {
+        "date": "2023-01",
+        "price": 724
+      },
+      {
+        "date": "2023-07",
+        "price": 710
+      },
+      {
         "date": "2024-01",
-        "price": 819
+        "price": 818
       },
       {
         "date": "2024-07",
-        "price": 865
+        "price": 792
       },
       {
         "date": "2025-01",
-        "price": 908
+        "price": 843
       },
       {
         "date": "2025-07",
-        "price": 934
+        "price": 913
       },
       {
         "date": "2026-01",
-        "price": 957
+        "price": 933
       },
       {
         "date": "2026-07",
@@ -12042,24 +13126,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 527
+      },
+      {
+        "date": "2022-07",
+        "price": 664
+      },
+      {
+        "date": "2023-01",
+        "price": 710
+      },
+      {
+        "date": "2023-07",
+        "price": 687
+      },
+      {
         "date": "2024-01",
-        "price": 799
+        "price": 703
       },
       {
         "date": "2024-07",
-        "price": 819
+        "price": 780
       },
       {
         "date": "2025-01",
-        "price": 852
+        "price": 793
       },
       {
         "date": "2025-07",
-        "price": 874
+        "price": 830
       },
       {
         "date": "2026-01",
-        "price": 899
+        "price": 874
       },
       {
         "date": "2026-07",
@@ -12106,24 +13206,40 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
+        "date": "2022-01",
+        "price": 536
+      },
+      {
+        "date": "2022-07",
+        "price": 619
+      },
+      {
+        "date": "2023-01",
+        "price": 640
+      },
+      {
+        "date": "2023-07",
+        "price": 633
+      },
+      {
         "date": "2024-01",
-        "price": 735
+        "price": 680
       },
       {
         "date": "2024-07",
-        "price": 748
+        "price": 742
       },
       {
         "date": "2025-01",
-        "price": 787
+        "price": 771
       },
       {
         "date": "2025-07",
-        "price": 802
+        "price": 822
       },
       {
         "date": "2026-01",
-        "price": 848
+        "price": 836
       },
       {
         "date": "2026-07",
@@ -12170,24 +13286,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 153
-      },
-      {
-        "date": "2024-07",
-        "price": 161
-      },
-      {
-        "date": "2025-01",
-        "price": 173
-      },
-      {
         "date": "2025-07",
-        "price": 171
+        "price": 170
       },
       {
         "date": "2026-01",
-        "price": 161
+        "price": 179
       },
       {
         "date": "2026-07",
@@ -12234,24 +13338,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 159
-      },
-      {
-        "date": "2024-07",
-        "price": 152
-      },
-      {
-        "date": "2025-01",
-        "price": 142
-      },
-      {
         "date": "2025-07",
-        "price": 142
+        "price": 171
       },
       {
         "date": "2026-01",
-        "price": 141
+        "price": 154
       },
       {
         "date": "2026-07",
@@ -12298,24 +13390,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 139
-      },
-      {
-        "date": "2024-07",
-        "price": 141
-      },
-      {
-        "date": "2025-01",
-        "price": 142
-      },
-      {
         "date": "2025-07",
-        "price": 129
+        "price": 152
       },
       {
         "date": "2026-01",
-        "price": 129
+        "price": 155
       },
       {
         "date": "2026-07",
@@ -12362,24 +13442,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 145
-      },
-      {
-        "date": "2024-07",
-        "price": 149
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
-        "date": "2025-07",
-        "price": 134
-      },
-      {
         "date": "2026-01",
-        "price": 148
+        "price": 139
       },
       {
         "date": "2026-07",
@@ -12426,24 +13490,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 137
-      },
-      {
-        "date": "2024-07",
-        "price": 144
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
-        "date": "2025-07",
-        "price": 123
-      },
-      {
         "date": "2026-01",
-        "price": 139
+        "price": 145
       },
       {
         "date": "2026-07",
@@ -12490,24 +13538,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 171
-      },
-      {
-        "date": "2024-07",
-        "price": 144
-      },
-      {
-        "date": "2025-01",
-        "price": 158
-      },
-      {
-        "date": "2025-07",
-        "price": 168
-      },
-      {
         "date": "2026-01",
-        "price": 160
+        "price": 178
       },
       {
         "date": "2026-07",
@@ -12554,24 +13586,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 127
-      },
-      {
-        "date": "2024-07",
-        "price": 122
-      },
-      {
-        "date": "2025-01",
-        "price": 128
-      },
-      {
         "date": "2025-07",
-        "price": 130
+        "price": 134
       },
       {
         "date": "2026-01",
-        "price": 112
+        "price": 136
       },
       {
         "date": "2026-07",
@@ -12618,24 +13638,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 126
-      },
-      {
-        "date": "2024-07",
-        "price": 112
-      },
-      {
-        "date": "2025-01",
-        "price": 111
-      },
-      {
         "date": "2025-07",
-        "price": 118
+        "price": 140
       },
       {
         "date": "2026-01",
-        "price": 129
+        "price": 137
       },
       {
         "date": "2026-07",
@@ -12682,24 +13690,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 117
-      },
-      {
-        "date": "2024-07",
-        "price": 109
-      },
-      {
-        "date": "2025-01",
-        "price": 123
-      },
-      {
         "date": "2025-07",
-        "price": 116
+        "price": 136
       },
       {
         "date": "2026-01",
-        "price": 130
+        "price": 133
       },
       {
         "date": "2026-07",
@@ -12746,24 +13742,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 161
-      },
-      {
-        "date": "2024-07",
-        "price": 176
-      },
-      {
-        "date": "2025-01",
-        "price": 169
-      },
-      {
         "date": "2025-07",
-        "price": 167
+        "price": 159
       },
       {
         "date": "2026-01",
-        "price": 171
+        "price": 162
       },
       {
         "date": "2026-07",
@@ -12810,24 +13794,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 143
-      },
-      {
-        "date": "2024-07",
-        "price": 144
-      },
-      {
-        "date": "2025-01",
-        "price": 155
-      },
-      {
         "date": "2025-07",
-        "price": 151
+        "price": 141
       },
       {
         "date": "2026-01",
-        "price": 150
+        "price": 142
       },
       {
         "date": "2026-07",
@@ -12874,24 +13846,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 155
-      },
-      {
-        "date": "2024-07",
-        "price": 131
-      },
-      {
         "date": "2025-01",
-        "price": 144
+        "price": 129
       },
       {
         "date": "2025-07",
-        "price": 130
+        "price": 136
       },
       {
         "date": "2026-01",
-        "price": 130
+        "price": 143
       },
       {
         "date": "2026-07",
@@ -12938,24 +13902,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 159
-      },
-      {
-        "date": "2024-07",
-        "price": 172
-      },
-      {
         "date": "2025-01",
-        "price": 176
+        "price": 147
       },
       {
         "date": "2025-07",
-        "price": 173
+        "price": 154
       },
       {
         "date": "2026-01",
-        "price": 152
+        "price": 156
       },
       {
         "date": "2026-07",
@@ -13002,24 +13958,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 154
-      },
-      {
-        "date": "2024-07",
-        "price": 143
-      },
-      {
         "date": "2025-01",
-        "price": 152
+        "price": 144
       },
       {
         "date": "2025-07",
-        "price": 153
+        "price": 137
       },
       {
         "date": "2026-01",
-        "price": 142
+        "price": 149
       },
       {
         "date": "2026-07",
@@ -13066,24 +14014,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 110
-      },
-      {
-        "date": "2024-07",
-        "price": 135
-      },
-      {
         "date": "2025-01",
-        "price": 113
+        "price": 144
       },
       {
         "date": "2025-07",
-        "price": 132
+        "price": 137
       },
       {
         "date": "2026-01",
-        "price": 110
+        "price": 143
       },
       {
         "date": "2026-07",
@@ -13130,24 +14070,16 @@ export const tomicaData = [
     "isDiscontinued": true,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 472
-      },
-      {
-        "date": "2024-07",
-        "price": 506
-      },
-      {
         "date": "2025-01",
-        "price": 540
+        "price": 579
       },
       {
         "date": "2025-07",
-        "price": 583
+        "price": 597
       },
       {
         "date": "2026-01",
-        "price": 622
+        "price": 610
       },
       {
         "date": "2026-07",
@@ -13194,27 +14126,7 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 116
-      },
-      {
-        "date": "2024-07",
-        "price": 121
-      },
-      {
-        "date": "2025-01",
-        "price": 116
-      },
-      {
-        "date": "2025-07",
-        "price": 124
-      },
-      {
-        "date": "2026-01",
-        "price": 144
-      },
-      {
-        "date": "2026-07",
+        "date": "2026-08",
         "price": 123
       }
     ],
@@ -13258,27 +14170,7 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 152
-      },
-      {
-        "date": "2024-07",
-        "price": 139
-      },
-      {
-        "date": "2025-01",
-        "price": 143
-      },
-      {
-        "date": "2025-07",
-        "price": 136
-      },
-      {
-        "date": "2026-01",
-        "price": 137
-      },
-      {
-        "date": "2026-07",
+        "date": "2026-08",
         "price": 138
       }
     ],
@@ -13322,24 +14214,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 134
-      },
-      {
-        "date": "2024-07",
-        "price": 135
-      },
-      {
-        "date": "2025-01",
-        "price": 106
-      },
-      {
-        "date": "2025-07",
-        "price": 116
-      },
-      {
-        "date": "2026-01",
-        "price": 109
+        "date": "2026-04",
+        "price": 113
       },
       {
         "date": "2026-07",
@@ -13386,24 +14262,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 116
-      },
-      {
-        "date": "2024-07",
-        "price": 141
-      },
-      {
-        "date": "2025-01",
-        "price": 122
-      },
-      {
-        "date": "2025-07",
-        "price": 131
-      },
-      {
-        "date": "2026-01",
-        "price": 117
+        "date": "2026-04",
+        "price": 128
       },
       {
         "date": "2026-07",
@@ -13450,24 +14310,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 150
-      },
-      {
-        "date": "2024-07",
-        "price": 138
-      },
-      {
-        "date": "2025-01",
-        "price": 136
-      },
-      {
         "date": "2025-07",
-        "price": 149
+        "price": 141
       },
       {
         "date": "2026-01",
-        "price": 139
+        "price": 128
       },
       {
         "date": "2026-07",
@@ -13514,24 +14362,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 122
-      },
-      {
-        "date": "2024-07",
-        "price": 123
-      },
-      {
-        "date": "2025-01",
-        "price": 126
-      },
-      {
         "date": "2025-07",
-        "price": 114
+        "price": 127
       },
       {
         "date": "2026-01",
-        "price": 115
+        "price": 123
       },
       {
         "date": "2026-07",
@@ -13578,24 +14414,12 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 132
-      },
-      {
-        "date": "2024-07",
+        "date": "2025-07",
         "price": 134
       },
       {
-        "date": "2025-01",
-        "price": 125
-      },
-      {
-        "date": "2025-07",
-        "price": 144
-      },
-      {
         "date": "2026-01",
-        "price": 137
+        "price": 130
       },
       {
         "date": "2026-07",
@@ -13642,24 +14466,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 168
-      },
-      {
-        "date": "2024-07",
-        "price": 168
-      },
-      {
         "date": "2025-01",
-        "price": 172
+        "price": 148
       },
       {
         "date": "2025-07",
-        "price": 164
+        "price": 154
       },
       {
         "date": "2026-01",
-        "price": 164
+        "price": 169
       },
       {
         "date": "2026-07",
@@ -13706,24 +14522,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 125
-      },
-      {
-        "date": "2024-07",
-        "price": 132
-      },
-      {
         "date": "2025-01",
         "price": 125
       },
       {
         "date": "2025-07",
-        "price": 126
+        "price": 128
       },
       {
         "date": "2026-01",
-        "price": 105
+        "price": 123
       },
       {
         "date": "2026-07",
@@ -13770,26 +14578,6 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 139
-      },
-      {
-        "date": "2024-07",
-        "price": 113
-      },
-      {
-        "date": "2025-01",
-        "price": 134
-      },
-      {
-        "date": "2025-07",
-        "price": 117
-      },
-      {
-        "date": "2026-01",
-        "price": 141
-      },
-      {
         "date": "2026-07",
         "price": 138
       }
@@ -13833,26 +14621,6 @@ export const tomicaData = [
     "currentPrice": 147,
     "isDiscontinued": false,
     "priceHistory": [
-      {
-        "date": "2024-01",
-        "price": 142
-      },
-      {
-        "date": "2024-07",
-        "price": 137
-      },
-      {
-        "date": "2025-01",
-        "price": 141
-      },
-      {
-        "date": "2025-07",
-        "price": 133
-      },
-      {
-        "date": "2026-01",
-        "price": 150
-      },
       {
         "date": "2026-07",
         "price": 147
@@ -13898,24 +14666,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 134
-      },
-      {
-        "date": "2024-07",
-        "price": 131
-      },
-      {
         "date": "2025-01",
-        "price": 132
+        "price": 124
       },
       {
         "date": "2025-07",
-        "price": 117
+        "price": 116
       },
       {
         "date": "2026-01",
-        "price": 112
+        "price": 129
       },
       {
         "date": "2026-07",
@@ -13962,24 +14722,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 139
-      },
-      {
-        "date": "2024-07",
-        "price": 140
-      },
-      {
         "date": "2025-01",
-        "price": 120
+        "price": 116
       },
       {
         "date": "2025-07",
-        "price": 128
+        "price": 120
       },
       {
         "date": "2026-01",
-        "price": 127
+        "price": 117
       },
       {
         "date": "2026-07",
@@ -14026,24 +14778,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 120
-      },
-      {
-        "date": "2024-07",
-        "price": 110
-      },
-      {
         "date": "2025-01",
-        "price": 114
+        "price": 124
       },
       {
         "date": "2025-07",
-        "price": 138
+        "price": 112
       },
       {
         "date": "2026-01",
-        "price": 131
+        "price": 116
       },
       {
         "date": "2026-07",
@@ -14090,16 +14834,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 149
-      },
-      {
-        "date": "2024-07",
-        "price": 137
-      },
-      {
         "date": "2025-01",
-        "price": 126
+        "price": 146
       },
       {
         "date": "2025-07",
@@ -14107,7 +14843,7 @@ export const tomicaData = [
       },
       {
         "date": "2026-01",
-        "price": 134
+        "price": 133
       },
       {
         "date": "2026-07",
@@ -14154,24 +14890,16 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 165
-      },
-      {
-        "date": "2024-07",
-        "price": 177
-      },
-      {
         "date": "2025-01",
-        "price": 165
-      },
-      {
-        "date": "2025-07",
         "price": 159
       },
       {
+        "date": "2025-07",
+        "price": 162
+      },
+      {
         "date": "2026-01",
-        "price": 177
+        "price": 155
       },
       {
         "date": "2026-07",
@@ -14218,24 +14946,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 118
-      },
-      {
-        "date": "2024-07",
-        "price": 139
-      },
-      {
-        "date": "2025-01",
-        "price": 131
-      },
-      {
-        "date": "2025-07",
-        "price": 138
-      },
-      {
         "date": "2026-01",
-        "price": 129
+        "price": 144
       },
       {
         "date": "2026-07",
@@ -14282,24 +14994,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 137
-      },
-      {
-        "date": "2024-07",
-        "price": 120
-      },
-      {
-        "date": "2025-01",
-        "price": 116
-      },
-      {
-        "date": "2025-07",
-        "price": 120
-      },
-      {
         "date": "2026-01",
-        "price": 113
+        "price": 117
       },
       {
         "date": "2026-07",
@@ -14346,24 +15042,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 164
-      },
-      {
-        "date": "2024-07",
-        "price": 160
-      },
-      {
-        "date": "2025-01",
-        "price": 146
-      },
-      {
-        "date": "2025-07",
-        "price": 171
-      },
-      {
         "date": "2026-01",
-        "price": 145
+        "price": 173
       },
       {
         "date": "2026-07",
@@ -14410,24 +15090,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 139
-      },
-      {
-        "date": "2024-07",
-        "price": 131
-      },
-      {
-        "date": "2025-01",
-        "price": 116
-      },
-      {
-        "date": "2025-07",
-        "price": 130
-      },
-      {
         "date": "2026-01",
-        "price": 125
+        "price": 136
       },
       {
         "date": "2026-07",
@@ -14474,24 +15138,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 138
-      },
-      {
-        "date": "2024-07",
-        "price": 142
-      },
-      {
-        "date": "2025-01",
-        "price": 148
-      },
-      {
-        "date": "2025-07",
-        "price": 138
-      },
-      {
         "date": "2026-01",
-        "price": 136
+        "price": 140
       },
       {
         "date": "2026-07",
@@ -14538,24 +15186,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 134
-      },
-      {
-        "date": "2024-07",
-        "price": 145
-      },
-      {
-        "date": "2025-01",
-        "price": 151
-      },
-      {
-        "date": "2025-07",
-        "price": 135
-      },
-      {
         "date": "2026-01",
-        "price": 151
+        "price": 127
       },
       {
         "date": "2026-07",
@@ -14602,24 +15234,8 @@ export const tomicaData = [
     "isDiscontinued": false,
     "priceHistory": [
       {
-        "date": "2024-01",
-        "price": 155
-      },
-      {
-        "date": "2024-07",
-        "price": 169
-      },
-      {
-        "date": "2025-01",
-        "price": 173
-      },
-      {
-        "date": "2025-07",
-        "price": 168
-      },
-      {
         "date": "2026-01",
-        "price": 178
+        "price": 184
       },
       {
         "date": "2026-07",
@@ -14656,6 +15272,7 @@ export const tomicaData = [
     "comments": []
   }
 ];
+
 
 export const getSortedData = () => {
   return [...tomicaData].sort((a, b) => {

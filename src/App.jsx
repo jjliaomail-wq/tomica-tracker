@@ -178,15 +178,9 @@ function CarCard({ car, views, onClick }) {
         <h3>{car.name}</h3>
         <div style={{ color: '#a0a0b5', fontSize: '0.8rem', marginBottom: '0.5rem', display: 'flex', justifyContent: 'space-between' }}>
           <span>發行於 {car.year} 年 {car.month} 月</span>
-          {views ? (
-            <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#ffb300' }}>
-              <Eye size={14} /> {views.toLocaleString()} 人看過
-            </span>
-          ) : (
-            <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: '#3399ff' }}>
-              <Eye size={14} /> 點擊查看真實人氣
-            </span>
-          )}
+          <span style={{ display: 'flex', alignItems: 'center', gap: '4px', color: views ? '#ffb300' : '#a0a0b5' }}>
+            <Eye size={14} /> {(views || 0).toLocaleString()} 人看過
+          </span>
         </div>
         <div className="car-price">
           NT$ {car.currentPrice} <span>/ 最新均價</span>
