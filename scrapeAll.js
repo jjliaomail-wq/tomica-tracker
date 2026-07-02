@@ -88,10 +88,15 @@ function generatePriceHistory(car) {
 // ===== SCRAPING =====
 async function fetchHTML(url) {
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+      }
+    });
     if (!res.ok) return null;
     return await res.text();
-  } catch {
+  } catch (e) {
+    console.log(`Fetch failed for ${url}:`, e.message);
     return null;
   }
 }
@@ -199,14 +204,15 @@ async function main() {
   let existingData = [];
   try {
     const raw = fs.readFileSync('src/data.js', 'utf-8');
+    const funcStart = raw.indexOf('export const getSortedData');
     const jsonStart = raw.indexOf('[');
-    const jsonEnd = raw.lastIndexOf(']');
+    const jsonEnd = raw.lastIndexOf(']', funcStart !== -1 ? funcStart : raw.length);
     if (jsonStart !== -1 && jsonEnd !== -1) {
       existingData = JSON.parse(raw.substring(jsonStart, jsonEnd + 1));
       console.log(`Loaded ${existingData.length} existing cars from data.js`);
     }
-  } catch {
-    console.log('No existing data.js found, starting fresh');
+  } catch (e) {
+    console.log('Error parsing existing data.js:', e.message);
   }
   const existingMap = new Map(existingData.map(c => [c.id, c]));
 
@@ -219,13 +225,16 @@ async function main() {
 
   if (allCars.length === 0 && existingData.length > 0) {
     console.log('\nNo new cars scraped, keeping existing data and updating discontinued status...');
-    // Just update discontinued status based on current lineup
-    const updatedData = existingData.map(car => ({
+    // Just update discontinued status based on current lineup if we got any
+    const updatedData = existingData.map(car => {
+      const isDisc = currentLineup.length > 0 ? !currentSerials.has(car.serialNumber) : car.isDiscontinued;
+      return {
       ...car,
-      isDiscontinued: !currentSerials.has(car.serialNumber),
-      name: (!currentSerials.has(car.serialNumber) && !car.name.includes('【絕版】'))
+      isDiscontinued: isDisc,
+      name: (isDisc && !car.name.includes('【絕版】'))
         ? `【絕版】${car.name}` : car.name,
-    }));
+      };
+    });
     writeDataFile(updatedData);
     return;
   }
@@ -261,8 +270,10 @@ async function main() {
 
   // Step 5: Mark discontinued, generate missing data
   const finalCars = [...finalMap.values()].map(car => {
-    // Mark discontinued if not in current regular lineup
-    car.isDiscontinued = !currentSerials.has(car.serialNumber);
+    // Mark discontinued if not in current regular lineup (only if we successfully fetched the lineup)
+    if (currentLineup.length > 0) {
+      car.isDiscontinued = !currentSerials.has(car.serialNumber);
+    }
     
     // Add 【絕版】 prefix if discontinued and not already there
     if (car.isDiscontinued && !car.name.includes('【絕版】')) {
